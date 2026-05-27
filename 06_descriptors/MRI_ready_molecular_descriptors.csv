@@ -1,0 +1,5 @@
+fragment_id,polymer,condition,selected_complex_id,source_status,QC_descriptor_class,raw_DFT_Eads_kcal_mol,QC_binding_strength_kcal_mol,Cd_O_contacts,Cd_MP_O_min_A,DFT_gap_eV,DFT_dipole_D,DFT_Cd_mulliken_charge,contact_vs_reference_delta_kcal_mol,needs_rerun
+PET_COOH,PET,oxidized,PET_COOH_CdH2O6_pose03,usable_contact,usable_contact_descriptor,-6.765655366210521,6.765655366210521,2,2.396404596530099,3.375607723888211,66.71791662501026,0.4896726985068618,5.557965500070834,False
+PET_F,PET,fresh,PET_F_CdH2O6_pose01,usable_contact,usable_contact_descriptor,-9.06524220992296,9.06524220992296,2,2.418730611847845,3.591016383925593,59.14405587104503,0.4782415581506569,0.5510463689266312,False
+PE_COOH,PE,oxidized,PE_COOH_CdH2O6_pose01,contact_requires_rerun,rerun_required_Eads_artifact,-126.40770354533484,,2,2.3582976833277205,2.9209652863071867,46.03121439014019,0.4019853426245419,120.85229716020362,True
+PE_F,PE,fresh,PE_F_CdH2O6_pose03,contact_requires_rerun,rerun_required_Eads_artifact,-538.8071949566507,,0,,5.766606368161334,50.98433165908423,0.5343796777352807,6.7048553843446035,True

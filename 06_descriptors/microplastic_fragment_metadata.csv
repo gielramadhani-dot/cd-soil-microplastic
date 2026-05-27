@@ -1,0 +1,5 @@
+fragment_id,polymer,condition,functional_group,aging_score,oxidation_score,polarity_score,expected_reactivity,n_atoms,n_active_sites,xyz_path
+PE_F,PE,fresh,alkyl,0,0,0.1,low,32,5,/content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/01_fragment_library/PE_F/PE_F.xyz
+PE_COOH,PE,oxidized,terminal_COOH,2,3,0.7,high,29,2,/content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/01_fragment_library/PE_COOH/PE_COOH.xyz
+PET_F,PET,fresh,aromatic_diester,0,1,0.6,moderate,30,4,/content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/01_fragment_library/PET_F/PET_F.xyz
+PET_COOH,PET,oxidized,ester_plus_COOH,2,3,0.9,very_high,24,4,/content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/01_fragment_library/PET_COOH/PET_COOH.xyz
