@@ -1,0 +1,27 @@
+{
+  "project_name": "Article1_MP_Cd_Soil_Computation",
+  "project_dir": "/content/drive/MyDrive/Article1_MP_Cd_Soil_Computation",
+  "stage_completed": [
+    "Stage 1",
+    "Stage 2",
+    "Stage 3"
+  ],
+  "main_systems": [
+    "PE_F",
+    "PE_COOH",
+    "PET_F",
+    "PET_COOH"
+  ],
+  "cd_model": "Cd_H2O6",
+  "total_initial_complexes": 20,
+  "xtb_run": true,
+  "selected_n_for_dft_per_fragment": 3,
+  "key_outputs": {
+    "fragment_metadata": "/content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/06_descriptors/microplastic_fragment_metadata.csv",
+    "cd_model_metadata": "/content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/06_descriptors/cd_model_metadata.csv",
+    "complex_plan": "/content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/06_descriptors/complex_system_plan.csv",
+    "xtb_summary": "/content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/04_xtb_screening/xtb_screening_summary.csv",
+    "selected_for_dft": "/content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/05_dft_refinement/selected_for_DFT.csv",
+    "selected_structures_folder": "/content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/05_dft_refinement/selected_structures_from_xtb"
+  }
+}
