@@ -1,0 +1,29 @@
+STAGE 10B-FINAL POINT-LEVEL VOLCANO REPORT
+================================================================================
+
+Purpose:
+This final version creates a volcano-style CMI enrichment landscape that visually resembles
+a standard volcano plot while remaining adapted to scenario-based Cd mobilization modeling.
+
+Point definition:
+Each point represents one sampled CMI scenario.
+
+x-axis:
+log2 fold change of CMI relative to the matched median CMI.
+Matching was based on soil pH, organic matter, particle size, and Cd total level.
+
+y-axis:
+Capped -log10 q-like evidence score derived from standardized deviation within matched scenario backgrounds.
+
+Thresholds:
+log2FC threshold = ±0.55
+q-like threshold = 0.05
+Y-axis cap = 6.5
+
+Class counts:
+- not strongly differentiated: 179987
+- reduced mobilization risk: 13
+
+Interpretation caution:
+This is a volcano-style scenario enrichment plot, not a gene-expression volcano plot.
+The y-axis is an evidence score for modeled scenario separation, not an experimental p-value.

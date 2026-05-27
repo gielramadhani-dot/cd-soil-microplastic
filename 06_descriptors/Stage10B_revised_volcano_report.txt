@@ -1,0 +1,47 @@
+STAGE 10B-REVISED VOLCANO-STYLE CMI ENRICHMENT REPORT
+================================================================================
+
+Purpose:
+This revised analysis creates a journal-like volcano plot for Cd mobilization enrichment.
+
+Point definition:
+Each point represents fragment_id × pH × organic matter × particle size × Cd total.
+
+Matched background:
+Other microplastic fragments under the same pH, organic matter, particle size, and Cd total level.
+
+x-axis:
+log2 fold change of mean CMI relative to matched background.
+
+y-axis:
+−log10 FDR-adjusted q-value from Mann–Whitney U comparisons, capped for visualization.
+
+Thresholds:
+log2FC threshold = ±0.5
+FDR q-value threshold = 0.05
+Y-axis cap = 8.0
+
+Class counts:
+- not strongly differentiated: 4032
+- reduced mobilization risk: 2016
+- enriched mobilization risk: 2016
+
+Top enriched-risk scenarios:
+- PET_COOH | pH 4.5 | OM 0.5% | 1000 µm | Cd 10.0: log2FC=0.975, q=6.759e-32, mean_CMI=0.3271, P_mobilization=0.983
+- PET_COOH | pH 4.5 | OM 0.5% | 1000 µm | Cd 5.0: log2FC=0.975, q=6.759e-32, mean_CMI=0.2721, P_mobilization=0.963
+- PET_COOH | pH 4.5 | OM 0.5% | 1000 µm | Cd 2.0: log2FC=0.975, q=6.759e-32, mean_CMI=0.1995, P_mobilization=0.883
+- PET_COOH | pH 4.5 | OM 0.5% | 1000 µm | Cd 1.0: log2FC=0.975, q=6.759e-32, mean_CMI=0.1445, P_mobilization=0.710
+- PET_COOH | pH 4.5 | OM 0.5% | 1000 µm | Cd 0.6: log2FC=0.975, q=6.759e-32, mean_CMI=0.1040, P_mobilization=0.477
+- PET_COOH | pH 4.5 | OM 0.5% | 1000 µm | Cd 0.3: log2FC=0.975, q=6.759e-32, mean_CMI=0.0491, P_mobilization=0.013
+
+Top reduced-risk scenarios:
+- PE_F | pH 4.5 | OM 0.5% | 1000 µm | Cd 10.0: log2FC=-5.907, q=7.074e-99, mean_CMI=0.0044, P_mobilization=0.000
+- PE_F | pH 4.5 | OM 0.5% | 1000 µm | Cd 5.0: log2FC=-5.907, q=7.074e-99, mean_CMI=0.0036, P_mobilization=0.000
+- PE_F | pH 4.5 | OM 0.5% | 1000 µm | Cd 2.0: log2FC=-5.907, q=7.074e-99, mean_CMI=0.0027, P_mobilization=0.000
+- PE_F | pH 4.5 | OM 0.5% | 1000 µm | Cd 1.0: log2FC=-5.907, q=7.074e-99, mean_CMI=0.0019, P_mobilization=0.000
+- PE_F | pH 4.5 | OM 0.5% | 1000 µm | Cd 0.6: log2FC=-5.907, q=7.074e-99, mean_CMI=0.0014, P_mobilization=0.000
+- PE_F | pH 4.5 | OM 0.5% | 1000 µm | Cd 0.3: log2FC=-5.907, q=7.074e-99, mean_CMI=0.0007, P_mobilization=0.000
+
+Interpretation caution:
+This is a volcano-style scenario enrichment plot, not a gene-expression volcano plot.
+The q-values compare modeled CMI distributions between scenario groups.

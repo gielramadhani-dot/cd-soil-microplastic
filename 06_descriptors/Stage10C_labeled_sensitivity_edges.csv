@@ -1,0 +1,25 @@
+source,target,edge_type,permutation_importance,label
+Soil geochemistry,pH,group_to_feature,0.7782032190077336,0.778
+pH,CMI,feature_to_CMI,0.7782032190077336,0.778
+Cd loading,log_Cd_total_mg_kg,group_to_feature,0.5882538651967805,0.588
+log_Cd_total_mg_kg,CMI,feature_to_CMI,0.5882538651967805,0.588
+Soil geochemistry,organic_matter_percent,group_to_feature,0.2195271702830328,0.220
+organic_matter_percent,CMI,feature_to_CMI,0.2195271702830328,0.220
+Soil geochemistry,CEC_cmol_kg,group_to_feature,0.2035885408874362,0.204
+CEC_cmol_kg,CMI,feature_to_CMI,0.2035885408874362,0.204
+Soil geochemistry,clay_percent,group_to_feature,0.1509509582715462,0.151
+clay_percent,CMI,feature_to_CMI,0.1509509582715462,0.151
+Microplastic descriptors,Cd_O_contacts,group_to_feature,0.1315616875474931,0.132
+Cd_O_contacts,CMI,feature_to_CMI,0.1315616875474931,0.132
+Microplastic descriptors,polarity_score,group_to_feature,0.020346258781484,0.020
+polarity_score,CMI,feature_to_CMI,0.020346258781484,0.020
+Microplastic descriptors,fragment_id_PET_COOH,group_to_feature,0.0168863439077517,0.017
+fragment_id_PET_COOH,CMI,feature_to_CMI,0.0168863439077517,0.017
+Microplastic descriptors,oxidation_score,group_to_feature,0.0125845927818068,0.013
+oxidation_score,CMI,feature_to_CMI,0.0125845927818068,0.013
+Microplastic descriptors,fragment_id_PE_F,group_to_feature,0.006576035548007,0.007
+fragment_id_PE_F,CMI,feature_to_CMI,0.006576035548007,0.007
+Microplastic descriptors,safe_molecular_reactivity_score,group_to_feature,0.0042985716337691,0.004
+safe_molecular_reactivity_score,CMI,feature_to_CMI,0.0042985716337691,0.004
+Microplastic descriptors,DFT_dipole_D,group_to_feature,0.0031131825151711,0.003
+DFT_dipole_D,CMI,feature_to_CMI,0.0031131825151711,0.003

@@ -1,0 +1,20 @@
+STAGE 10 ADDITIONAL ANALYSES REPORT
+================================================================================
+
+Added analyses:
+1. Molecular Descriptor Atlas
+2. Radar / Interfactor Descriptor Profile
+3. Line Graph Analysis of CMI versus pH
+4. Sankey Analysis from fragment to MRI class to CMI regime
+
+Key interpretation:
+- Molecular descriptors show that Cd–O contact formation separates PET/PET_COOH from PE_F.
+- Radar analysis integrates molecular, aging, oxidation, MRI, and CMI dimensions.
+- Line graph analysis shows CMI declines with increasing soil pH.
+- Sankey analysis links microplastic identity and MRI class to final Cd mobilization regimes.
+
+Files:
+- /content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/07_figures/Figure10_molecular_descriptor_atlas.png
+- /content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/07_figures/Figure11_radar_interfactor_profile.png
+- /content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/07_figures/Figure12_linegraph_CMI_vs_pH.png
+- /content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/07_figures/Figure13_sankey_fragment_MRI_CMI.html

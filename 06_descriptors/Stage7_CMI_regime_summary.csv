@@ -1,0 +1,16 @@
+fragment_id,CMI_regime,count,fraction
+PET_COOH,aging-amplified mobilization,37688,0.04673611111111111
+PET_COOH,conditional retention,287001,0.3559040178571429
+PET_COOH,immobilization-dominant regime,323316,0.4009375
+PET_COOH,mobilization regime,158395,0.19642237103174603
+PET_F,aging-amplified mobilization,13618,0.016887400793650795
+PET_F,conditional retention,283844,0.3519890873015873
+PET_F,immobilization-dominant regime,397054,0.4923784722222222
+PET_F,mobilization regime,111884,0.13874503968253968
+PE_COOH,aging-amplified mobilization,15149,0.0187859623015873
+PE_COOH,conditional retention,284751,0.35311383928571427
+PE_COOH,immobilization-dominant regime,390113,0.4837710813492063
+PE_COOH,mobilization regime,116387,0.14432911706349205
+PE_F,conditional retention,15872,0.019682539682539683
+PE_F,immobilization-dominant regime,790523,0.980311259920635
+PE_F,mobilization regime,5,6.200396825396825e-06

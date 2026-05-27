@@ -1,0 +1,29 @@
+STAGE 6 SOIL GEOCHEMICAL MODIFIER REPORT
+================================================================================
+
+Purpose:
+This stage constructs a scenario-based soil geochemical modifier for Cd mobilization.
+
+Main formula:
+Msoil_raw = M_pH × M_OM × M_CEC × M_clay × M_moisture × M_ionic_strength
+
+Interpretation:
+Higher Msoil indicates higher predicted Cd mobilization tendency.
+Lower Msoil indicates stronger soil retention/buffering.
+
+Scenario count:
+n = 19200
+
+Summary:
+Msoil min    = 0.000
+Msoil mean   = 0.162
+Msoil median = 0.120
+Msoil max    = 1.000
+
+Mechanistic interpretation:
+- Low pH increases Cd mobilization tendency.
+- Higher OM, CEC, and clay generally reduce Cd mobilization through retention.
+- Moisture and ionic strength are included as mild modifiers.
+
+Caution:
+Msoil is a scenario-screening modifier, not a directly measured soil Cd concentration.

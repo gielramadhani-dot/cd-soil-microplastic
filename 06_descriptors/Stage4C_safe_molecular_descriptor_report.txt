@@ -1,0 +1,19 @@
+STAGE 4C SAFE MOLECULAR DESCRIPTOR REPORT
+================================================================================
+
+Purpose:
+This table avoids direct use of non-physical raw DFT_Eads artifacts.
+Raw Eads is used only for structures classified as usable_contact_descriptor.
+For artifact structures, descriptor construction relies on contact geometry,
+relative contact stability, and electronic descriptors.
+
+Selected fragment descriptors:
+
+PET_COOH: class=high molecular reactivity; score=0.817; source=usable_raw_Eads_plus_relative_stability; QC=usable_contact_descriptor; delta_vs_ref=5.558 kcal/mol
+PET_F: class=high molecular reactivity; score=1.000; source=usable_raw_Eads_plus_relative_stability; QC=usable_contact_descriptor; delta_vs_ref=0.551 kcal/mol
+PE_COOH: class=low-to-moderate molecular reactivity; score=0.352; source=geometry_plus_relative_stability_only_Eads_excluded; QC=rerun_required_Eads_artifact; delta_vs_ref=120.852 kcal/mol
+PE_F: class=low molecular reactivity; score=0.000; source=geometry_plus_relative_stability_only_Eads_excluded; QC=rerun_required_Eads_artifact; delta_vs_ref=6.705 kcal/mol
+
+Interpretation caution:
+The descriptor is intended for relative computational screening, not direct prediction
+of measured soil Cd concentrations.

@@ -1,0 +1,17 @@
+node,node_group,degree,in_degree,out_degree
+PET_COOH | oxidized,microplastic fragment,1,0,1
+very high MRI,MRI class,2,1,1
+PET_F | fresh,microplastic fragment,2,0,2
+high MRI,MRI class,4,2,2
+moderate MRI,MRI class,2,1,1
+PE_COOH | oxidized,microplastic fragment,1,0,1
+PE_F | fresh,microplastic fragment,1,0,1
+low MRI,MRI class,3,1,2
+low soil mobilization potential,soil class,7,4,3
+low-to-moderate soil mobilization potential,soil class,5,2,3
+high Cd loading,Cd loading,5,2,3
+low Cd loading,Cd loading,4,2,2
+moderate Cd loading,Cd loading,4,2,2
+conditional retention,CMI regime,3,3,0
+immobilization-dominant regime,CMI regime,3,3,0
+mobilization regime,CMI regime,1,1,0

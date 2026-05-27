@@ -1,0 +1,29 @@
+STAGE 10C NETWORK AND ALLUVIAL PATHWAY ANALYSIS REPORT
+================================================================================
+
+Purpose:
+This stage creates network and alluvial analyses to show how microplastic identity,
+MRI class, soil geochemical class, Cd loading, and CMI regimes are connected.
+
+Alluvial pathway:
+fragment_condition → MRI_class → Msoil_class → Cd_loading_class → CMI_regime
+
+Network pathway:
+Edges represent aggregated scenario flows between categorical states.
+
+Sensitivity network:
+Edges represent permutation-importance-based links from mechanistic controls to CMI.
+
+Key outputs:
+- /content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/06_descriptors/Stage10C_alluvial_flow_table.csv
+- /content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/06_descriptors/Stage10C_network_edge_table.csv
+- /content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/06_descriptors/Stage10C_network_node_table.csv
+- /content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/07_figures/Figure16_alluvial_pathway_CMI.html
+- /content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/07_figures/Figure17_network_CMI_pathway.png
+- /content/drive/MyDrive/Article1_MP_Cd_Soil_Computation/07_figures/Figure18_sensitivity_network.png
+
+Interpretation:
+The alluvial and network analyses are intended as pathway-level visualizations.
+They do not replace the CMI and sensitivity results but help show how molecular
+microplastic descriptors and soil geochemistry jointly route scenarios into final
+Cd mobilization regimes.

@@ -1,0 +1,53 @@
+STAGE 9B LIGHTWEIGHT SENSITIVITY ANALYSIS REPORT
+================================================================================
+
+Reason for lightweight run:
+The original Stage 9 run exceeded available Colab RAM during mechanistic permutation analysis.
+This RAM-safe version uses chunked sampling, smaller ExtraTrees models, and reduced permutation subsets.
+
+Final sample rows = 80000
+
+Model A: direct equation audit
+R2  = 0.99757
+MAE = 0.001865
+
+Direct sensitivity ranking:
+- Msoil: permutation=1.343870; tree=0.543840
+- MRI: permutation=0.660451; tree=0.209053
+- Cd_total_factor: permutation=0.640079; tree=0.247107
+
+Model B: mechanistic surrogate
+R2  = 0.93514
+MAE = 0.008345
+
+Top mechanistic sensitivity ranking:
+- pH: permutation=0.778203; tree=0.275750
+- log_Cd_total_mg_kg: permutation=0.588254; tree=0.247921
+- organic_matter_percent: permutation=0.219527; tree=0.107053
+- CEC_cmol_kg: permutation=0.203589; tree=0.098519
+- clay_percent: permutation=0.150951; tree=0.083143
+- Cd_O_contacts: permutation=0.131562; tree=0.079480
+- polarity_score: permutation=0.020346; tree=0.028321
+- fragment_id_PET_COOH: permutation=0.016886; tree=0.010459
+- oxidation_score: permutation=0.012585; tree=0.023315
+- fragment_id_PE_F: permutation=0.006576; tree=0.017798
+- safe_molecular_reactivity_score: permutation=0.004299; tree=0.012942
+- DFT_dipole_D: permutation=0.003113; tree=0.002294
+- DFT_gap_eV: permutation=0.002273; tree=0.010034
+- log_particle_size_um: permutation=0.002226; tree=0.000788
+- DFT_Cd_mulliken_charge: permutation=0.000978; tree=0.001356
+
+Grouped sensitivity:
+- direct_equation_audit_light | Cd loading: permutation sum=0.640079; tree sum=0.247107
+- direct_equation_audit_light | microplastic molecular descriptor: permutation sum=0.660451; tree sum=0.209053
+- direct_equation_audit_light | soil geochemistry: permutation sum=1.343870; tree sum=0.543840
+- mechanistic_surrogate_light | Cd loading: permutation sum=0.588254; tree sum=0.247921
+- mechanistic_surrogate_light | microplastic identity / aging category: permutation sum=0.023469; tree sum=0.028263
+- mechanistic_surrogate_light | microplastic molecular descriptor: permutation sum=0.175155; tree sum=0.157741
+- mechanistic_surrogate_light | microplastic size: permutation sum=0.002226; tree sum=0.000788
+- mechanistic_surrogate_light | soil geochemistry: permutation sum=1.353656; tree sum=0.565286
+
+Interpretation:
+The direct model identifies the relative contribution of MRI, Msoil, and Cd loading.
+The mechanistic surrogate identifies which underlying soil, contaminant, and microplastic variables dominate CMI.
+This is a scenario-model sensitivity result, not experimental causal evidence.

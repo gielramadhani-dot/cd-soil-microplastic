@@ -1,0 +1,9 @@
+model,group,permutation_importance_sum,tree_importance_sum
+direct_equation_audit_light,Cd loading,0.6400789987670065,0.24710712605059193
+direct_equation_audit_light,microplastic molecular descriptor,0.6604509844301598,0.20905279589874448
+direct_equation_audit_light,soil geochemistry,1.3438701200605885,0.5438400780506637
+mechanistic_surrogate_light,Cd loading,0.5882538651967805,0.247921194975074
+mechanistic_surrogate_light,microplastic identity / aging category,0.02346854051177124,0.028263357243398006
+mechanistic_surrogate_light,microplastic molecular descriptor,0.1751549288437502,0.157741080648672
+mechanistic_surrogate_light,microplastic size,0.0022256920892670027,0.0007883006848455749
+mechanistic_surrogate_light,soil geochemistry,1.3536556085741467,0.5652860664480105

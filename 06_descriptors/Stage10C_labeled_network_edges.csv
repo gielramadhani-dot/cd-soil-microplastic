@@ -1,0 +1,40 @@
+source,target,count,CMI_mean,layer,flow_fraction,flow_percent,edge_label
+low Cd loading,immobilization-dominant regime,841198,0.014280535350786926,Cd_loading_to_CMI_regime,0.06519701760912698,6.519701760912698,6.5%
+moderate Cd loading,immobilization-dominant regime,593756,0.013034574100396597,Cd_loading_to_CMI_regime,0.04601903521825397,4.601903521825397,4.6%
+high Cd loading,immobilization-dominant regime,466052,0.015206361046439179,Cd_loading_to_CMI_regime,0.03612134176587302,3.612134176587302,3.6%
+moderate Cd loading,conditional retention,345968,0.06647992395406079,Cd_loading_to_CMI_regime,0.02681423611111111,2.681423611111111,2.7%
+high Cd loading,conditional retention,310605,0.06498118056373164,Cd_loading_to_CMI_regime,0.02407342819940476,2.4073428199404763,2.4%
+high Cd loading,mobilization regime,239266,0.16641915790700723,Cd_loading_to_CMI_regime,0.01854430183531746,1.854430183531746,1.9%
+low Cd loading,conditional retention,214895,0.05697142822482153,Cd_loading_to_CMI_regime,0.016655428447420635,1.6655428447420635,1.7%
+moderate Cd loading,mobilization regime,128307,0.1614555541085032,Cd_loading_to_CMI_regime,0.00994442894345238,0.994442894345238,1.0%
+high Cd loading,aging-amplified mobilization,59277,0.36987384427478265,Cd_loading_to_CMI_regime,0.0045942615327380955,0.45942615327380953,0.5%
+low Cd loading,mobilization regime,19098,0.13575210725462777,Cd_loading_to_CMI_regime,0.0014801897321428572,0.14801897321428573,0.1%
+high MRI,low soil mobilization potential,960840,0.042389456644064384,MRI_to_Msoil,0.07446986607142857,7.446986607142857,7.4%
+low MRI,low soil mobilization potential,560490,0.002925030944160944,MRI_to_Msoil,0.043440755208333334,4.344075520833333,4.3%
+very high MRI,low soil mobilization potential,480420,0.05017756763851446,MRI_to_Msoil,0.037234933035714284,3.7234933035714284,3.7%
+high MRI,low-to-moderate soil mobilization potential,265680,0.08926636962343429,MRI_to_Msoil,0.020591517857142857,2.0591517857142856,2.1%
+moderate MRI,low soil mobilization potential,240210,0.03865188523320686,MRI_to_Msoil,0.018617466517857142,1.8617466517857142,1.9%
+low MRI,low-to-moderate soil mobilization potential,154980,0.010429314691597991,MRI_to_Msoil,0.01201171875,1.201171875,1.2%
+very high MRI,low-to-moderate soil mobilization potential,132840,0.12367700448404118,MRI_to_Msoil,0.010295758928571428,1.0295758928571428,1.0%
+high MRI,moderate soil mobilization potential,120240,0.14914344948456712,MRI_to_Msoil,0.009319196428571428,0.9319196428571428,0.9%
+low MRI,moderate soil mobilization potential,70140,0.01739155050877814,MRI_to_Msoil,0.0054361979166666664,0.5436197916666666,0.5%
+moderate MRI,low-to-moderate soil mobilization potential,66420,0.07938295553820794,MRI_to_Msoil,0.005147879464285714,0.5147879464285714,0.5%
+low soil mobilization potential,moderate Cd loading,747320,0.03141501287354545,Msoil_to_Cd_loading,0.05792100694444444,5.792100694444445,5.8%
+low soil mobilization potential,low Cd loading,747320,0.020595805657849586,Msoil_to_Cd_loading,0.05792100694444444,5.792100694444445,5.8%
+low soil mobilization potential,high Cd loading,747320,0.05888971840838738,Msoil_to_Cd_loading,0.05792100694444444,5.792100694444445,5.8%
+low-to-moderate soil mobilization potential,high Cd loading,206640,0.1370815212741101,Msoil_to_Cd_loading,0.016015625,1.6015624999999998,1.6%
+low-to-moderate soil mobilization potential,low Cd loading,206640,0.033175679491962644,Msoil_to_Cd_loading,0.016015625,1.6015624999999998,1.6%
+low-to-moderate soil mobilization potential,moderate Cd loading,206640,0.0860387044702239,Msoil_to_Cd_loading,0.016015625,1.6015624999999998,1.6%
+moderate soil mobilization potential,high Cd loading,93520,0.2129901991680008,Msoil_to_Cd_loading,0.007248263888888889,0.724826388888889,0.7%
+moderate soil mobilization potential,moderate Cd loading,93520,0.13097257584177024,Msoil_to_Cd_loading,0.007248263888888889,0.724826388888889,0.7%
+moderate soil mobilization potential,low Cd loading,93520,0.06377072655912798,Msoil_to_Cd_loading,0.007248263888888889,0.724826388888889,0.7%
+high soil mobilization potential,moderate Cd loading,24080,0.1955953558567658,Msoil_to_Cd_loading,0.0018663194444444445,0.18663194444444445,0.2%
+PE_F | fresh,low MRI,806400,0.017961419123895105,fragment_to_MRI,0.0625,6.25,6.2%
+PE_COOH | oxidized,high MRI,691200,0.13078589843930624,fragment_to_MRI,0.05357142857142857,5.357142857142857,5.4%
+PET_COOH | oxidized,very high MRI,691200,0.16756816879085482,fragment_to_MRI,0.05357142857142857,5.357142857142857,5.4%
+PET_F | fresh,high MRI,576000,0.1290644281790164,fragment_to_MRI,0.044642857142857144,4.464285714285714,4.5%
+PET_F | fresh,moderate MRI,230400,0.12145326712020602,fragment_to_MRI,0.017857142857142856,1.7857142857142856,1.8%
+PET_COOH | oxidized,high MRI,115200,0.15935684287582186,fragment_to_MRI,0.008928571428571428,0.8928571428571428,0.9%
+PE_COOH | oxidized,moderate MRI,115200,0.12136373884362411,fragment_to_MRI,0.008928571428571428,0.8928571428571428,0.9%
+low Cd loading,aging-amplified mobilization,9,0.2559713216997694,Cd_loading_to_CMI_regime,6.975446428571429e-07,6.975446428571428e-05,0.0%
+moderate Cd loading,aging-amplified mobilization,7169,0.2848582753975824,Cd_loading_to_CMI_regime,0.0005556330605158731,0.055563306051587304,0.1%

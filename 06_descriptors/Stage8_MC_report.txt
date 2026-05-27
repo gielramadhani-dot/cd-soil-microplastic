@@ -1,0 +1,27 @@
+STAGE 8 MONTE CARLO UNCERTAINTY REPORT
+================================================================================
+
+Purpose:
+This stage evaluates uncertainty in the Cadmium Mobilization Index by perturbing MRI,
+Msoil, and Cd_total_factor across sampled scenarios.
+
+Monte Carlo settings:
+N per fragment = 100000
+Random seed = 2026
+
+Regime thresholds:
+Conditional retention threshold       = 0.03
+Mobilization threshold                = 0.1
+Aging-amplified mobilization threshold = 0.25
+
+Fragment ranking:
+
+PET_COOH: CMI_MC_mean=0.0721; CMI_MC_p95=0.2427; P_mobilization=0.2426; P_aging_amplified=0.0465; flag=descriptor usable
+PE_COOH: CMI_MC_mean=0.0535; CMI_MC_p95=0.1803; P_mobilization=0.1625; P_aging_amplified=0.0192; flag=use geometry/relative-stability descriptor; raw Eads excluded
+PET_F: CMI_MC_mean=0.0519; CMI_MC_p95=0.1744; P_mobilization=0.1562; P_aging_amplified=0.0165; flag=descriptor usable
+PE_F: CMI_MC_mean=0.0053; CMI_MC_p95=0.0206; P_mobilization=0.0000; P_aging_amplified=0.0000; flag=use geometry/relative-stability descriptor; raw Eads excluded
+
+Interpretation:
+A robust ranking is indicated when PET_COOH remains the highest-risk fragment after uncertainty perturbation.
+PE_COOH should be interpreted cautiously because its raw Eads descriptor was excluded and replaced by geometry/relative-stability descriptors.
+CMI is a relative computational screening index and should not be interpreted as a measured Cd concentration.

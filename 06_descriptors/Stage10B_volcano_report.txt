@@ -1,0 +1,52 @@
+STAGE 10B VOLCANO-STYLE CMI ENRICHMENT REPORT
+================================================================================
+
+Purpose:
+This analysis adapts the volcano plot concept for Cd mobilization scenario enrichment.
+
+Point definition:
+Each point represents fragment_id × particle_size_um × Cd_total_mg_kg.
+
+x-axis:
+log2 fold change of mean CMI relative to matched background.
+The matched background consists of the other fragments at the same particle size and Cd total level.
+
+y-axis:
+-log10(FDR-adjusted q-value) from Mann–Whitney U tests comparing CMI distributions.
+
+Thresholds:
+log2FC threshold = ±1.0
+FDR q-value threshold = 0.05
+
+Class counts:
+- not strongly differentiated: 102
+- reduced mobilization risk: 42
+- enriched mobilization risk: 24
+
+Top enriched mobilization-risk scenarios:
+- PET_COOH | 1000 µm | Cd 10.0: log2FC=1.105, q=3.239e-175, mean_CMI=0.1213, P_mobilization=0.462
+- PET_COOH | 1000 µm | Cd 5.0: log2FC=1.105, q=3.239e-175, mean_CMI=0.1009, P_mobilization=0.391
+- PET_COOH | 1000 µm | Cd 2.0: log2FC=1.105, q=3.239e-175, mean_CMI=0.0740, P_mobilization=0.275
+- PET_COOH | 1000 µm | Cd 1.0: log2FC=1.105, q=3.239e-175, mean_CMI=0.0536, P_mobilization=0.150
+- PET_COOH | 1000 µm | Cd 0.6: log2FC=1.105, q=3.239e-175, mean_CMI=0.0386, P_mobilization=0.070
+- PET_COOH | 1000 µm | Cd 0.3: log2FC=1.105, q=3.239e-175, mean_CMI=0.0182, P_mobilization=0.000
+- PET_COOH | 500 µm | Cd 10.0: log2FC=1.074, q=3.522e-164, mean_CMI=0.1237, P_mobilization=0.471
+- PET_COOH | 500 µm | Cd 5.0: log2FC=1.074, q=3.522e-164, mean_CMI=0.1029, P_mobilization=0.399
+- PET_COOH | 500 µm | Cd 2.0: log2FC=1.074, q=3.522e-164, mean_CMI=0.0754, P_mobilization=0.284
+- PET_COOH | 500 µm | Cd 1.0: log2FC=1.074, q=3.522e-164, mean_CMI=0.0547, P_mobilization=0.161
+
+Top reduced mobilization-risk scenarios:
+- PE_F | 1000 µm | Cd 10.0: log2FC=-5.886, q=0.000e+00, mean_CMI=0.0016, P_mobilization=0.000
+- PE_F | 1000 µm | Cd 5.0: log2FC=-5.886, q=0.000e+00, mean_CMI=0.0013, P_mobilization=0.000
+- PE_F | 1000 µm | Cd 2.0: log2FC=-5.886, q=0.000e+00, mean_CMI=0.0010, P_mobilization=0.000
+- PE_F | 1000 µm | Cd 1.0: log2FC=-5.886, q=0.000e+00, mean_CMI=0.0007, P_mobilization=0.000
+- PE_F | 1000 µm | Cd 0.6: log2FC=-5.886, q=0.000e+00, mean_CMI=0.0005, P_mobilization=0.000
+- PE_F | 1000 µm | Cd 0.3: log2FC=-5.886, q=0.000e+00, mean_CMI=0.0002, P_mobilization=0.000
+- PE_F | 500 µm | Cd 10.0: log2FC=-4.596, q=0.000e+00, mean_CMI=0.0041, P_mobilization=0.000
+- PE_F | 500 µm | Cd 5.0: log2FC=-4.596, q=0.000e+00, mean_CMI=0.0034, P_mobilization=0.000
+- PE_F | 500 µm | Cd 2.0: log2FC=-4.596, q=0.000e+00, mean_CMI=0.0025, P_mobilization=0.000
+- PE_F | 500 µm | Cd 1.0: log2FC=-4.596, q=0.000e+00, mean_CMI=0.0018, P_mobilization=0.000
+
+Interpretation caution:
+This is a volcano-style scenario enrichment analysis, not a gene-expression analysis.
+The q-values quantify differences between modeled CMI distributions, not experimental biological significance.

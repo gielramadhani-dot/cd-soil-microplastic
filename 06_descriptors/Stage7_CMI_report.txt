@@ -1,0 +1,29 @@
+STAGE 7 CADMIUM MOBILIZATION INDEX REPORT
+================================================================================
+
+Purpose:
+This stage combines microplastic reactivity, soil geochemical modifier, and Cd total level.
+
+Main formula:
+CMI = MRI × Msoil × Cd_total_factor
+
+Regime thresholds:
+CMI < 0.03   : immobilization-dominant regime
+0.03–0.10    : conditional retention
+0.10–0.25    : mobilization regime
+CMI >= 0.25  : aging-amplified mobilization
+
+Scenario count:
+n = 3225600
+
+Fragment ranking by mean CMI:
+
+PET_COOH: CMI_mean=0.0722; CMI_p95=0.2436; CMI_max=0.8500; P_mobilization_or_higher=0.2432; P_aging_amplified=0.0467
+PE_COOH: CMI_mean=0.0536; CMI_p95=0.1808; CMI_max=0.6441; P_mobilization_or_higher=0.1631; P_aging_amplified=0.0188
+PET_F: CMI_mean=0.0520; CMI_p95=0.1755; CMI_max=0.6267; P_mobilization_or_higher=0.1556; P_aging_amplified=0.0169
+PE_F: CMI_mean=0.0053; CMI_p95=0.0204; CMI_max=0.1100; P_mobilization_or_higher=0.0000; P_aging_amplified=0.0000
+
+Interpretation caution:
+CMI is a relative computational index for scenario screening.
+It should not be interpreted as a measured Cd concentration.
+High-CMI scenarios should be treated as priorities for future experimental validation.

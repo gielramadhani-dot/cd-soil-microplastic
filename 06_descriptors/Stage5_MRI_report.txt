@@ -1,0 +1,16 @@
+STAGE 5 MICROPLASTIC REACTIVITY INDEX REPORT
+================================================================================
+
+MRI formula:
+MRI = 0.40*molecular + 0.20*aging + 0.20*oxidation + 0.10*polarity + 0.10*particle_size_factor
+
+Interpretation:
+MRI is a relative computational index, not a measured concentration.
+It represents the potential of each microplastic condition to modify Cd mobilization in soil.
+
+Fragment ranking based on mean MRI:
+
+PET_COOH: mean MRI=0.799; class=very high MRI; 10um=0.850; 1000um=0.750; QC=usable_contact_descriptor
+PE_COOH: mean MRI=0.593; class=high MRI; 10um=0.644; 1000um=0.544; QC=rerun_required_Eads_artifact
+PET_F: mean MRI=0.575; class=high MRI; 10um=0.627; 1000um=0.527; QC=usable_contact_descriptor
+PE_F: mean MRI=0.059; class=low MRI; 10um=0.110; 1000um=0.010; QC=rerun_required_Eads_artifact

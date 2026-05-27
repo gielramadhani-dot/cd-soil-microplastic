@@ -1,0 +1,375 @@
+fragment_condition,particle_size_class,MRI_class,Msoil_class,Cd_loading_class,CMI_regime,count,CMI_mean,CMI_max,fraction
+PET_COOH | oxidized,large MP,high MRI,high soil mobilization potential,high Cd loading,aging-amplified mobilization,860,0.4289553094734136,0.5621170640038265,0.00026661706349206347
+PET_COOH | oxidized,large MP,high MRI,high soil mobilization potential,low Cd loading,conditional retention,430,0.07024457573683403,0.0843175596005739,0.00013330853174603173
+PET_COOH | oxidized,large MP,high MRI,high soil mobilization potential,low Cd loading,mobilization regime,430,0.1489282999477946,0.178764988973742,0.00013330853174603173
+PET_COOH | oxidized,large MP,high MRI,high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,430,0.2855992217230956,0.3428169242523777,0.00013330853174603173
+PET_COOH | oxidized,large MP,high MRI,high soil mobilization potential,moderate Cd loading,mobilization regime,430,0.20691549751213503,0.2483694948792096,0.00013330853174603173
+PET_COOH | oxidized,large MP,high MRI,low soil mobilization potential,high Cd loading,conditional retention,13056,0.06250556684255923,0.0999359366690756,0.004047619047619047
+PET_COOH | oxidized,large MP,high MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,8931,0.011392433999602145,0.0299971326642847,0.0027687872023809523
+PET_COOH | oxidized,large MP,high MRI,low soil mobilization potential,high Cd loading,mobilization regime,4703,0.11955158892571213,0.1499749028772031,0.0014580233134920634
+PET_COOH | oxidized,large MP,high MRI,low soil mobilization potential,low Cd loading,conditional retention,3426,0.038350322093498604,0.0476951574254268,0.0010621279761904763
+PET_COOH | oxidized,large MP,high MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,23264,0.006670205252515331,0.0299996036023947,0.0072123015873015875
+PET_COOH | oxidized,large MP,high MRI,low soil mobilization potential,moderate Cd loading,conditional retention,12825,0.05275843669236814,0.0914648179388161,0.003976004464285714
+PET_COOH | oxidized,large MP,high MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,13865,0.009388700423476962,0.0299991151105554,0.0042984250992063495
+PET_COOH | oxidized,large MP,high MRI,low-to-moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,262,0.25617743008529686,0.2623272980267697,8.122519841269842e-05
+PET_COOH | oxidized,large MP,high MRI,low-to-moderate soil mobilization potential,high Cd loading,mobilization regime,7118,0.17845041863319447,0.2497956875743556,0.00220672123015873
+PET_COOH | oxidized,large MP,high MRI,low-to-moderate soil mobilization potential,low Cd loading,conditional retention,5317,0.05416091939114052,0.0834255701210091,0.001648375496031746
+PET_COOH | oxidized,large MP,high MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,2063,0.026019165962080558,0.0299815704627411,0.0006395709325396825
+PET_COOH | oxidized,large MP,high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,conditional retention,3489,0.08404995169221295,0.0999731250776004,0.0010816592261904763
+PET_COOH | oxidized,large MP,high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,mobilization regime,3891,0.12194595368349087,0.1599848914324398,0.0012062872023809524
+PET_COOH | oxidized,large MP,high MRI,moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,2706,0.30963493280134974,0.4124417535978009,0.0008389136904761905
+PET_COOH | oxidized,large MP,high MRI,moderate soil mobilization potential,high Cd loading,mobilization regime,634,0.2336375073762902,0.2499385554446057,0.00019655257936507936
+PET_COOH | oxidized,large MP,high MRI,moderate soil mobilization potential,low Cd loading,conditional retention,2499,0.06259481911762582,0.0999571490074476,0.0007747395833333333
+PET_COOH | oxidized,large MP,high MRI,moderate soil mobilization potential,low Cd loading,mobilization regime,841,0.11352122516000326,0.1311651082232931,0.0002607266865079365
+PET_COOH | oxidized,large MP,high MRI,moderate soil mobilization potential,moderate Cd loading,aging-amplified mobilization,11,0.2509542916302469,0.2515348180226968,3.410218253968254e-06
+PET_COOH | oxidized,large MP,high MRI,moderate soil mobilization potential,moderate Cd loading,mobilization regime,3329,0.16920625033595768,0.2499653951995959,0.0010320560515873017
+PET_COOH | oxidized,large MP,high MRI,very high soil mobilization potential,high Cd loading,aging-amplified mobilization,130,0.5621365255292311,0.7499736068117154,4.0302579365079364e-05
+PET_COOH | oxidized,large MP,high MRI,very high soil mobilization potential,low Cd loading,conditional retention,57,0.09025645010557684,0.0996876403757649,1.7671130952380952e-05
+PET_COOH | oxidized,large MP,high MRI,very high soil mobilization potential,low Cd loading,mobilization regime,73,0.18527073135462338,0.2385073005920724,2.2631448412698412e-05
+PET_COOH | oxidized,large MP,high MRI,very high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,130,0.3227148690416863,0.4573845229432568,4.0302579365079364e-05
+PET_COOH | oxidized,large MP,very high MRI,high soil mobilization potential,high Cd loading,aging-amplified mobilization,860,0.42876953248191785,0.5733984008270706,0.00026661706349206347
+PET_COOH | oxidized,large MP,very high MRI,high soil mobilization potential,low Cd loading,conditional retention,430,0.07021415339291828,0.0860097601240605,0.00013330853174603173
+PET_COOH | oxidized,large MP,very high MRI,high soil mobilization potential,low Cd loading,mobilization regime,430,0.14886380033466046,0.1823526901519482,0.00013330853174603173
+PET_COOH | oxidized,large MP,very high MRI,high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,437,0.28511084306496715,0.3496970448515512,0.00013547867063492064
+PET_COOH | oxidized,large MP,very high MRI,high soil mobilization potential,moderate Cd loading,mobilization regime,423,0.20645282220500416,0.2499693365360472,0.00013113839285714286
+PET_COOH | oxidized,large MP,very high MRI,low soil mobilization potential,high Cd loading,conditional retention,12845,0.06860601783722312,0.0999711623908433,0.003982204861111111
+PET_COOH | oxidized,large MP,very high MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,8801,0.020918251133862628,0.0299940680343912,0.002728484623015873
+PET_COOH | oxidized,large MP,very high MRI,low soil mobilization potential,high Cd loading,mobilization regime,5044,0.12119862521679263,0.1529848050892795,0.0015637400793650793
+PET_COOH | oxidized,large MP,very high MRI,low soil mobilization potential,low Cd loading,conditional retention,3574,0.03915362534485013,0.0486523693127895,0.0011080109126984127
+PET_COOH | oxidized,large MP,very high MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,23116,0.014281232381552825,0.0299803939618914,0.007166418650793651
+PET_COOH | oxidized,large MP,very high MRI,low soil mobilization potential,moderate Cd loading,conditional retention,13123,0.0559802852277612,0.0933004594532275,0.004068390376984127
+PET_COOH | oxidized,large MP,very high MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,13567,0.018905084811459576,0.0299864501550346,0.004206039186507937
+PET_COOH | oxidized,large MP,very high MRI,low-to-moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,394,0.2583279136691303,0.2675920423237892,0.00012214781746031745
+PET_COOH | oxidized,large MP,very high MRI,low-to-moderate soil mobilization potential,high Cd loading,mobilization regime,6986,0.1815057433625854,0.2499920732711039,0.002165798611111111
+PET_COOH | oxidized,large MP,very high MRI,low-to-moderate soil mobilization potential,low Cd loading,conditional retention,5450,0.0546839003984691,0.0850998689752418,0.001689608134920635
+PET_COOH | oxidized,large MP,very high MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,1930,0.026340453354640934,0.0299908675563752,0.0005983382936507937
+PET_COOH | oxidized,large MP,very high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,conditional retention,3190,0.08451419444835895,0.0999923491244174,0.0009889632936507936
+PET_COOH | oxidized,large MP,very high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,mobilization regime,4190,0.12293270406930928,0.1631956878349258,0.0012989831349206349
+PET_COOH | oxidized,large MP,very high MRI,moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,2801,0.31201978370769345,0.4207192008419118,0.0008683655753968254
+PET_COOH | oxidized,large MP,very high MRI,moderate soil mobilization potential,high Cd loading,mobilization regime,539,0.2357918336899582,0.2498323599021505,0.00016710069444444444
+PET_COOH | oxidized,large MP,very high MRI,moderate soil mobilization potential,low Cd loading,conditional retention,2413,0.06266839919239309,0.0999960294162545,0.000748077876984127
+PET_COOH | oxidized,large MP,very high MRI,moderate soil mobilization potential,low Cd loading,mobilization regime,927,0.11388974434275319,0.1337975096572303,0.00028738839285714283
+PET_COOH | oxidized,large MP,very high MRI,moderate soil mobilization potential,moderate Cd loading,aging-amplified mobilization,53,0.2536658637985778,0.2565829640168346,1.643105158730159e-05
+PET_COOH | oxidized,large MP,very high MRI,moderate soil mobilization potential,moderate Cd loading,mobilization regime,3287,0.17063684783368127,0.2498896780106227,0.0010190352182539682
+PET_COOH | oxidized,large MP,very high MRI,very high soil mobilization potential,high Cd loading,aging-amplified mobilization,130,0.5734182529330806,0.7650251065949145,4.0302579365079364e-05
+PET_COOH | oxidized,large MP,very high MRI,very high soil mobilization potential,low Cd loading,conditional retention,54,0.09157193532224325,0.0997163785682285,1.674107142857143e-05
+PET_COOH | oxidized,large MP,very high MRI,very high soil mobilization potential,low Cd loading,mobilization regime,76,0.18551551713948788,0.2432939924843569,2.3561507936507938e-05
+PET_COOH | oxidized,large MP,very high MRI,very high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,130,0.3291915540040619,0.4665639433727112,4.0302579365079364e-05
+PET_COOH | oxidized,medium MP,very high MRI,high soil mobilization potential,high Cd loading,aging-amplified mobilization,1720,0.4518631869351464,0.599592853744848,0.0005332341269841269
+PET_COOH | oxidized,medium MP,very high MRI,high soil mobilization potential,low Cd loading,conditional retention,860,0.07399590856287179,0.0899389280617272,0.00026661706349206347
+PET_COOH | oxidized,medium MP,very high MRI,high soil mobilization potential,low Cd loading,mobilization regime,860,0.1568816488642036,0.1906830743136854,0.00026661706349206347
+PET_COOH | oxidized,medium MP,very high MRI,high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,925,0.29764023492242553,0.365672190166985,0.0002867683531746032
+PET_COOH | oxidized,medium MP,very high MRI,high soil mobilization potential,moderate Cd loading,mobilization regime,795,0.21489972065613938,0.2497353467878663,0.0002464657738095238
+PET_COOH | oxidized,medium MP,very high MRI,low soil mobilization potential,high Cd loading,conditional retention,25327,0.06706047334981485,0.0999966434164653,0.00785187251984127
+PET_COOH | oxidized,medium MP,very high MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,17152,0.02015586275015438,0.0299899022747644,0.005317460317460317
+PET_COOH | oxidized,medium MP,very high MRI,low soil mobilization potential,high Cd loading,mobilization regime,10901,0.12322095026619378,0.1599735815983634,0.0033795262896825396
+PET_COOH | oxidized,medium MP,very high MRI,low soil mobilization potential,low Cd loading,conditional retention,7570,0.03974072771920025,0.0508749464868171,0.0023468501984126983
+PET_COOH | oxidized,medium MP,very high MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,45810,0.01403704268326857,0.0299847839380382,0.014202008928571428
+PET_COOH | oxidized,medium MP,very high MRI,low soil mobilization potential,moderate Cd loading,conditional retention,26835,0.05619815084490709,0.0975626870576809,0.00831938244047619
+PET_COOH | oxidized,medium MP,very high MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,26545,0.01853105154330281,0.0299937608530141,0.008229476686507937
+PET_COOH | oxidized,medium MP,very high MRI,low-to-moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,1107,0.2631948808583908,0.2798164000194368,0.0003431919642857143
+PET_COOH | oxidized,medium MP,very high MRI,low-to-moderate soil mobilization potential,high Cd loading,mobilization regime,13653,0.18543642605755367,0.2499793656088724,0.004232700892857143
+PET_COOH | oxidized,medium MP,very high MRI,low-to-moderate soil mobilization potential,low Cd loading,conditional retention,11332,0.05548129726900796,0.0889874705241225,0.0035131448412698413
+PET_COOH | oxidized,medium MP,very high MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,3428,0.026744042137449228,0.0299907403816916,0.0010627480158730159
+PET_COOH | oxidized,medium MP,very high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,conditional retention,5580,0.08504228253767235,0.0999941624416829,0.0017299107142857142
+PET_COOH | oxidized,medium MP,very high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,mobilization regime,9180,0.12466607431122581,0.1706509262088213,0.0028459821428571427
+PET_COOH | oxidized,medium MP,very high MRI,moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,5872,0.32073121618947087,0.4399388381519608,0.0018204365079365079
+PET_COOH | oxidized,medium MP,very high MRI,moderate soil mobilization potential,high Cd loading,mobilization regime,808,0.24011234304491924,0.2499646269543027,0.00025049603174603176
+PET_COOH | oxidized,medium MP,very high MRI,moderate soil mobilization potential,low Cd loading,conditional retention,4547,0.06227064331901986,0.0999894792735886,0.0014096602182539681
+PET_COOH | oxidized,medium MP,very high MRI,moderate soil mobilization potential,low Cd loading,mobilization regime,2133,0.11600945032862073,0.1399097565037107,0.0006612723214285714
+PET_COOH | oxidized,medium MP,very high MRI,moderate soil mobilization potential,moderate Cd loading,aging-amplified mobilization,277,0.25711860137686826,0.2683043960277163,8.587549603174603e-05
+PET_COOH | oxidized,medium MP,very high MRI,moderate soil mobilization potential,moderate Cd loading,mobilization regime,6403,0.17515152485532767,0.2498647553994466,0.0019850570436507936
+PET_COOH | oxidized,medium MP,very high MRI,very high soil mobilization potential,high Cd loading,aging-amplified mobilization,260,0.5921567965439346,0.7999736068117155,8.060515873015873e-05
+PET_COOH | oxidized,medium MP,very high MRI,very high soil mobilization potential,low Cd loading,aging-amplified mobilization,1,0.2544083468706217,0.2544083468706217,3.1001984126984127e-07
+PET_COOH | oxidized,medium MP,very high MRI,very high soil mobilization potential,low Cd loading,conditional retention,94,0.09347978983659277,0.0998464477653453,2.914186507936508e-05
+PET_COOH | oxidized,medium MP,very high MRI,very high soil mobilization potential,low Cd loading,mobilization regime,165,0.18360729809589477,0.2480806843766413,5.115327380952381e-05
+PET_COOH | oxidized,medium MP,very high MRI,very high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,260,0.339949094873187,0.4878778975626443,8.060515873015873e-05
+PET_COOH | oxidized,small MP,very high MRI,high soil mobilization potential,high Cd loading,aging-amplified mobilization,2580,0.4733117072019288,0.6370686434858694,0.0007998511904761905
+PET_COOH | oxidized,small MP,very high MRI,high soil mobilization potential,low Cd loading,conditional retention,1290,0.0775082609526174,0.0955602965228804,0.0003999255952380952
+PET_COOH | oxidized,small MP,very high MRI,high soil mobilization potential,low Cd loading,mobilization regime,1290,0.1643283259169927,0.2026011596536286,0.0003999255952380952
+PET_COOH | oxidized,small MP,very high MRI,high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,1532,0.30695252413594176,0.3885274560815923,0.00047495039682539684
+PET_COOH | oxidized,small MP,very high MRI,high soil mobilization potential,moderate Cd loading,mobilization regime,1048,0.2213284645066987,0.2498806327104111,0.00032490079365079367
+PET_COOH | oxidized,small MP,very high MRI,low soil mobilization potential,high Cd loading,conditional retention,36719,0.06247489427035176,0.099984907221893,0.011383618551587302
+PET_COOH | oxidized,small MP,very high MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,24791,0.014707597883234218,0.0299925927351363,0.007685701884920635
+PET_COOH | oxidized,small MP,very high MRI,low soil mobilization potential,high Cd loading,mobilization regime,18560,0.12572411054146618,0.1699722603195237,0.005753968253968254
+PET_COOH | oxidized,small MP,very high MRI,low soil mobilization potential,low Cd loading,conditional retention,12373,0.040545536679559895,0.0540547355482075,0.003835875496031746
+PET_COOH | oxidized,small MP,very high MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,67697,0.011408999615386365,0.0299796785685891,0.020987413194444443
+PET_COOH | oxidized,small MP,very high MRI,low soil mobilization potential,moderate Cd loading,conditional retention,41324,0.05567529424681421,0.0999683766669513,0.012811259920634921
+PET_COOH | oxidized,small MP,very high MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,38331,0.01384095134101481,0.0299998922574424,0.011883370535714286
+PET_COOH | oxidized,small MP,very high MRI,low soil mobilization potential,moderate Cd loading,mobilization regime,415,0.10154172235914796,0.1036605561765457,0.00012865823412698413
+PET_COOH | oxidized,small MP,very high MRI,low-to-moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,2597,0.2690170216540936,0.2973055020121039,0.0008051215277777778
+PET_COOH | oxidized,small MP,very high MRI,low-to-moderate soil mobilization potential,high Cd loading,mobilization regime,19543,0.1911617985422167,0.2498157277118101,0.006058717757936508
+PET_COOH | oxidized,small MP,very high MRI,low-to-moderate soil mobilization potential,low Cd loading,conditional retention,18115,0.0565340820570131,0.0945493709272358,0.005616009424603175
+PET_COOH | oxidized,small MP,very high MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,4025,0.027306172084577668,0.0299976545591088,0.001247829861111111
+PET_COOH | oxidized,small MP,very high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,conditional retention,6631,0.08577079917939966,0.0999930003157866,0.0020557415674603173
+PET_COOH | oxidized,small MP,very high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,mobilization regime,15509,0.127526294721647,0.1813169609852027,0.004808097718253968
+PET_COOH | oxidized,small MP,very high MRI,moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,9574,0.33014339276768323,0.4674359227061208,0.0029681299603174604
+PET_COOH | oxidized,small MP,very high MRI,moderate soil mobilization potential,high Cd loading,mobilization regime,446,0.2452565502297539,0.2499304884447958,0.00013826884920634921
+PET_COOH | oxidized,small MP,very high MRI,moderate soil mobilization potential,low Cd loading,conditional retention,6130,0.061513253208132335,0.0999921107149552,0.001900421626984127
+PET_COOH | oxidized,small MP,very high MRI,moderate soil mobilization potential,low Cd loading,mobilization regime,3890,0.11843264418965138,0.1486544047841283,0.0012059771825396826
+PET_COOH | oxidized,small MP,very high MRI,moderate soil mobilization potential,moderate Cd loading,aging-amplified mobilization,861,0.26276561570605583,0.2850739740327357,0.0002669270833333333
+PET_COOH | oxidized,small MP,very high MRI,moderate soil mobilization potential,moderate Cd loading,mobilization regime,9159,0.18027200440865954,0.2499940627117719,0.0028394717261904763
+PET_COOH | oxidized,small MP,very high MRI,very high soil mobilization potential,high Cd loading,aging-amplified mobilization,390,0.6202646119602154,0.8499736068117154,0.0001209077380952381
+PET_COOH | oxidized,small MP,very high MRI,very high soil mobilization potential,low Cd loading,aging-amplified mobilization,8,0.2575342965289171,0.270309393149171,2.48015873015873e-06
+PET_COOH | oxidized,small MP,very high MRI,very high soil mobilization potential,low Cd loading,conditional retention,96,0.09621988258975542,0.0997176259083541,2.9761904761904762e-05
+PET_COOH | oxidized,small MP,very high MRI,very high soil mobilization potential,low Cd loading,mobilization regime,286,0.1783644868457899,0.2499685707814626,8.86656746031746e-05
+PET_COOH | oxidized,small MP,very high MRI,very high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,390,0.35608540617687456,0.5183712721820317,0.0001209077380952381
+PET_F | fresh,large MP,moderate MRI,high soil mobilization potential,high Cd loading,aging-amplified mobilization,1618,0.30995908240757897,0.4060263220953364,0.0005016121031746032
+PET_F | fresh,large MP,moderate MRI,high soil mobilization potential,high Cd loading,mobilization regime,102,0.2473224716202153,0.2499555093139397,3.162202380952381e-05
+PET_F | fresh,large MP,moderate MRI,high soil mobilization potential,low Cd loading,conditional retention,1143,0.06123267672092174,0.0998451989605101,0.0003543526785714286
+PET_F | fresh,large MP,moderate MRI,high soil mobilization potential,low Cd loading,mobilization regime,577,0.11093930338568003,0.1291248667589421,0.00017888144841269842
+PET_F | fresh,large MP,moderate MRI,high soil mobilization potential,moderate Cd loading,mobilization regime,1720,0.17610279491153286,0.2476222548997034,0.0005332341269841269
+PET_F | fresh,large MP,moderate MRI,low soil mobilization potential,high Cd loading,conditional retention,29261,0.06327579895526769,0.0999679163206645,0.009071490575396825
+PET_F | fresh,large MP,moderate MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,23101,0.015613717657531175,0.0299988687044982,0.007161768353174603
+PET_F | fresh,large MP,moderate MRI,low soil mobilization potential,high Cd loading,mobilization regime,1018,0.10377827550035393,0.1083293180749651,0.0003156001984126984
+PET_F | fresh,large MP,moderate MRI,low soil mobilization potential,low Cd loading,conditional retention,1936,0.03208438331335211,0.0344509900006741,0.0006001984126984127
+PET_F | fresh,large MP,moderate MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,51444,0.009124797246273426,0.0299939196353511,0.015948660714285714
+PET_F | fresh,large MP,moderate MRI,low soil mobilization potential,moderate Cd loading,conditional retention,17604,0.04400438689561004,0.0660665295664538,0.005457589285714286
+PET_F | fresh,large MP,moderate MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,35776,0.013722145005604537,0.029998398256083,0.011091269841269841
+PET_F | fresh,large MP,moderate MRI,low-to-moderate soil mobilization potential,high Cd loading,conditional retention,1757,0.09461631377337626,0.0999751909255085,0.0005447048611111111
+PET_F | fresh,large MP,moderate MRI,low-to-moderate soil mobilization potential,high Cd loading,mobilization regime,13003,0.13554225964370467,0.189483285286446,0.004031187996031746
+PET_F | fresh,large MP,moderate MRI,low-to-moderate soil mobilization potential,low Cd loading,conditional retention,7380,0.045654829989008036,0.0602596497670267,0.0022879464285714287
+PET_F | fresh,large MP,moderate MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,7380,0.021533880156016948,0.0284224927929669,0.0022879464285714287
+PET_F | fresh,large MP,moderate MRI,low-to-moderate soil mobilization potential,moderate Cd loading,conditional retention,13293,0.07132966299451982,0.0999972788494237,0.00412109375
+PET_F | fresh,large MP,moderate MRI,low-to-moderate soil mobilization potential,moderate Cd loading,mobilization regime,1467,0.10715100681455407,0.1155596960470373,0.0004547991071428571
+PET_F | fresh,large MP,moderate MRI,moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,894,0.27050349528868145,0.297913404547929,0.0002771577380952381
+PET_F | fresh,large MP,moderate MRI,moderate soil mobilization potential,high Cd loading,mobilization regime,5786,0.20266688606246608,0.249981562424667,0.0017937748015873017
+PET_F | fresh,large MP,moderate MRI,moderate soil mobilization potential,low Cd loading,conditional retention,6017,0.05674578413506005,0.0947426966543359,0.001865389384920635
+PET_F | fresh,large MP,moderate MRI,moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,663,0.029062013533219883,0.0299775192136076,0.00020554315476190477
+PET_F | fresh,large MP,moderate MRI,moderate soil mobilization potential,moderate Cd loading,conditional retention,1724,0.09097574743862004,0.0999469683008183,0.0005344742063492063
+PET_F | fresh,large MP,moderate MRI,moderate soil mobilization potential,moderate Cd loading,mobilization regime,4956,0.1319986570644557,0.1816877009803426,0.0015364583333333333
+PET_F | fresh,large MP,moderate MRI,very high soil mobilization potential,high Cd loading,aging-amplified mobilization,260,0.40039951577058164,0.5417181664498657,8.060515873015873e-05
+PET_F | fresh,large MP,moderate MRI,very high soil mobilization potential,low Cd loading,conditional retention,130,0.06556835523277635,0.0812577249674798,4.0302579365079364e-05
+PET_F | fresh,large MP,moderate MRI,very high soil mobilization potential,low Cd loading,mobilization regime,130,0.13901406012863163,0.1722777126930037,4.0302579365079364e-05
+PET_F | fresh,large MP,moderate MRI,very high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,106,0.27111088857863314,0.330376299753669,3.286210317460318e-05
+PET_F | fresh,large MP,moderate MRI,very high soil mobilization potential,moderate Cd loading,mobilization regime,154,0.2011115562617482,0.2499866561812453,4.774305555555556e-05
+PET_F | fresh,medium MP,high MRI,high soil mobilization potential,high Cd loading,aging-amplified mobilization,1720,0.32414042876409954,0.4322207750131139,0.0005332341269841269
+PET_F | fresh,medium MP,high MRI,high soil mobilization potential,low Cd loading,conditional retention,915,0.05571020842555645,0.0997327896888797,0.0002836681547619048
+PET_F | fresh,medium MP,high MRI,high soil mobilization potential,low Cd loading,mobilization regime,805,0.11342020360261343,0.1374552509206793,0.0002495659722222222
+PET_F | fresh,medium MP,high MRI,high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,49,0.2545164983054883,0.2635974002151374,1.5190972222222222e-05
+PET_F | fresh,medium MP,high MRI,high soil mobilization potential,moderate Cd loading,mobilization regime,1671,0.18408084785019252,0.2499957619049704,0.0005180431547619047
+PET_F | fresh,medium MP,high MRI,low soil mobilization potential,high Cd loading,conditional retention,29370,0.06328117564385215,0.0999320417352312,0.009105282738095239
+PET_F | fresh,medium MP,high MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,22061,0.019075553348627067,0.0299967051297969,0.006839347718253968
+PET_F | fresh,medium MP,high MRI,low soil mobilization potential,high Cd loading,mobilization regime,1949,0.10690093751714712,0.115318094584049,0.0006042286706349206
+PET_F | fresh,medium MP,high MRI,low soil mobilization potential,low Cd loading,conditional retention,2797,0.033069271006059484,0.0366735671747017,0.000867125496031746
+PET_F | fresh,medium MP,high MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,50583,0.01222113289040195,0.0299996955455673,0.01568173363095238
+PET_F | fresh,medium MP,high MRI,low soil mobilization potential,moderate Cd loading,conditional retention,19168,0.04521481416112831,0.0703287571709072,0.005942460317460318
+PET_F | fresh,medium MP,high MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,34212,0.017707864643516383,0.0299997713956451,0.01060639880952381
+PET_F | fresh,medium MP,high MRI,low-to-moderate soil mobilization potential,high Cd loading,conditional retention,860,0.09728374976493505,0.0999496320451946,0.00026661706349206347
+PET_F | fresh,medium MP,high MRI,low-to-moderate soil mobilization potential,high Cd loading,mobilization regime,13900,0.14007777197635063,0.2017076429820936,0.004309275793650794
+PET_F | fresh,medium MP,high MRI,low-to-moderate soil mobilization potential,low Cd loading,conditional retention,7431,0.04767789421587175,0.0641472513159073,0.0023037574404761903
+PET_F | fresh,medium MP,high MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,7329,0.022502327543230314,0.0299887635915681,0.0022721354166666667
+PET_F | fresh,medium MP,high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,conditional retention,12567,0.0734382123485944,0.0999963861479885,0.003896019345238095
+PET_F | fresh,medium MP,high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,mobilization regime,2193,0.11009459163762006,0.1230149344209328,0.0006798735119047619
+PET_F | fresh,medium MP,high MRI,moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,1484,0.27455442572211997,0.317133041857978,0.0004600694444444444
+PET_F | fresh,medium MP,high MRI,moderate soil mobilization potential,high Cd loading,mobilization regime,5196,0.2085409856205473,0.2499915478642292,0.0016108630952380953
+PET_F | fresh,medium MP,high MRI,moderate soil mobilization potential,low Cd loading,conditional retention,6546,0.05733090342786901,0.0999113916971951,0.002029389880952381
+PET_F | fresh,medium MP,high MRI,moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,112,0.029623219245355804,0.0299938972775365,3.472222222222222e-05
+PET_F | fresh,medium MP,high MRI,moderate soil mobilization potential,low Cd loading,mobilization regime,22,0.10040163678797621,0.1008549435008163,6.820436507936508e-06
+PET_F | fresh,medium MP,high MRI,moderate soil mobilization potential,moderate Cd loading,conditional retention,1229,0.09361451546918911,0.0999589577268044,0.0003810143849206349
+PET_F | fresh,medium MP,high MRI,moderate soil mobilization potential,moderate Cd loading,mobilization regime,5451,0.13588296770131214,0.1934091329912242,0.0016899181547619048
+PET_F | fresh,medium MP,high MRI,very high soil mobilization potential,high Cd loading,aging-amplified mobilization,260,0.42477892308336035,0.5766666666666667,8.060515873015873e-05
+PET_F | fresh,medium MP,high MRI,very high soil mobilization potential,low Cd loading,conditional retention,130,0.0695606618567552,0.0865,4.0302579365079364e-05
+PET_F | fresh,medium MP,high MRI,very high soil mobilization potential,low Cd loading,mobilization regime,130,0.14747830711343785,0.1833920670792685,4.0302579365079364e-05
+PET_F | fresh,medium MP,high MRI,very high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,131,0.2825686885953909,0.3516902539436021,4.061259920634921e-05
+PET_F | fresh,medium MP,high MRI,very high soil mobilization potential,moderate Cd loading,mobilization regime,129,0.20453920970592882,0.2460651806245188,3.999255952380953e-05
+PET_F | fresh,small MP,high MRI,high soil mobilization potential,high Cd loading,aging-amplified mobilization,2580,0.34558894903088194,0.4696965647541353,0.0007998511904761905
+PET_F | fresh,small MP,high MRI,high soil mobilization potential,low Cd loading,conditional retention,1290,0.0565927232228775,0.0704544847131203,0.0003999255952380952
+PET_F | fresh,small MP,high MRI,high soil mobilization potential,low Cd loading,mobilization regime,1290,0.11998446813281427,0.1493733362606226,0.0003999255952380952
+PET_F | fresh,small MP,high MRI,high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,278,0.2616698447366653,0.2864526661297446,8.618551587301587e-05
+PET_F | fresh,small MP,high MRI,high soil mobilization potential,moderate Cd loading,mobilization regime,2302,0.19140554324088993,0.2499688791437849,0.0007136656746031746
+PET_F | fresh,small MP,high MRI,low soil mobilization potential,high Cd loading,conditional retention,43848,0.06098942296728134,0.0999956530754582,0.01359375
+PET_F | fresh,small MP,high MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,31356,0.01403892622064462,0.0299978796374524,0.009720982142857142
+PET_F | fresh,small MP,high MRI,low soil mobilization potential,high Cd loading,mobilization regime,4866,0.10971099523012762,0.1253167733052093,0.0015085565476190476
+PET_F | fresh,small MP,high MRI,low soil mobilization potential,low Cd loading,conditional retention,5774,0.03409559067394452,0.039853356236092,0.0017900545634920635
+PET_F | fresh,small MP,high MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,74296,0.009940792338602381,0.0299785726835383,0.023033234126984128
+PET_F | fresh,small MP,high MRI,low soil mobilization potential,moderate Cd loading,conditional retention,31360,0.04605013590494329,0.076426626289772,0.009722222222222222
+PET_F | fresh,small MP,high MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,48710,0.01358845854308401,0.0299997992576682,0.015101066468253968
+PET_F | fresh,small MP,high MRI,low-to-moderate soil mobilization potential,high Cd loading,conditional retention,112,0.09916213928412128,0.0999915322670618,3.472222222222222e-05
+PET_F | fresh,small MP,high MRI,low-to-moderate soil mobilization potential,high Cd loading,mobilization regime,22028,0.14632972275642822,0.2191967449747606,0.006829117063492063
+PET_F | fresh,small MP,high MRI,low-to-moderate soil mobilization potential,low Cd loading,conditional retention,12109,0.049156045696297467,0.0697091517190207,0.003754030257936508
+PET_F | fresh,small MP,high MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,10031,0.023270606834335968,0.0299994603573212,0.0031098090277777777
+PET_F | fresh,small MP,high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,conditional retention,17445,0.07615484922681726,0.0999948260065467,0.005408296130952381
+PET_F | fresh,small MP,high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,mobilization regime,4695,0.11333714793510768,0.1336809691973143,0.0014555431547619048
+PET_F | fresh,small MP,high MRI,moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,3642,0.2801480550908815,0.3446301264121379,0.001129092261904762
+PET_F | fresh,small MP,high MRI,moderate soil mobilization potential,high Cd loading,mobilization regime,6378,0.2152036760047238,0.2499384220765914,0.0019773065476190476
+PET_F | fresh,small MP,high MRI,moderate soil mobilization potential,low Cd loading,conditional retention,9566,0.05901489640411378,0.0999986738625293,0.0029656498015873016
+PET_F | fresh,small MP,high MRI,moderate soil mobilization potential,low Cd loading,mobilization regime,454,0.10277881205297737,0.1095995917812339,0.00014074900793650794
+PET_F | fresh,small MP,high MRI,moderate soil mobilization potential,moderate Cd loading,conditional retention,887,0.09663025441643192,0.0999918896029742,0.0002749875992063492
+PET_F | fresh,small MP,high MRI,moderate soil mobilization potential,moderate Cd loading,mobilization regime,9133,0.1408835381497977,0.2101787109962436,0.0028314112103174603
+PET_F | fresh,small MP,high MRI,very high soil mobilization potential,high Cd loading,aging-amplified mobilization,390,0.45288673849964123,0.6266666666666666,0.0001209077380952381
+PET_F | fresh,small MP,high MRI,very high soil mobilization potential,low Cd loading,conditional retention,195,0.07416352263316033,0.0939999999999999,6.045386904761905e-05
+PET_F | fresh,small MP,high MRI,very high soil mobilization potential,low Cd loading,mobilization regime,195,0.15723701407601612,0.1992931133578178,6.045386904761905e-05
+PET_F | fresh,small MP,high MRI,very high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,206,0.2993413879910946,0.3821836285629896,6.38640873015873e-05
+PET_F | fresh,small MP,high MRI,very high soil mobilization potential,moderate Cd loading,mobilization regime,184,0.21615907729273953,0.249147834956,5.70436507936508e-05
+PE_COOH | oxidized,large MP,high MRI,high soil mobilization potential,high Cd loading,aging-amplified mobilization,860,0.3192748761394748,0.4190747617380243,0.00026661706349206347
+PE_COOH | oxidized,large MP,high MRI,high soil mobilization potential,low Cd loading,conditional retention,482,0.057412011172487815,0.0999636367326187,0.0001494295634920635
+PE_COOH | oxidized,large MP,high MRI,high soil mobilization potential,low Cd loading,mobilization regime,378,0.11250628347603836,0.1332745436113669,0.0001171875
+PE_COOH | oxidized,large MP,high MRI,high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,16,0.2527993309699964,0.2555800740641624,4.96031746031746e-06
+PE_COOH | oxidized,large MP,high MRI,high soil mobilization potential,moderate Cd loading,mobilization regime,844,0.1820283919167131,0.2491715154880792,0.000261656746031746
+PE_COOH | oxidized,large MP,high MRI,low soil mobilization potential,high Cd loading,conditional retention,14682,0.06779270149566326,0.0999831336129425,0.004551711309523809
+PE_COOH | oxidized,large MP,high MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,11132,0.013697488731671712,0.029992272996108,0.003451140873015873
+PE_COOH | oxidized,large MP,high MRI,low soil mobilization potential,high Cd loading,mobilization regime,876,0.10572003315566184,0.1118106898272694,0.000271577380952381
+PE_COOH | oxidized,large MP,high MRI,low soil mobilization potential,low Cd loading,conditional retention,1296,0.0327366214981834,0.0355581390675986,0.0004017857142857143
+PE_COOH | oxidized,large MP,high MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,25394,0.013410238548372769,0.0299987560513462,0.00787264384920635
+PE_COOH | oxidized,large MP,high MRI,low soil mobilization potential,moderate Cd loading,conditional retention,9395,0.04587855311033355,0.0681897050271012,0.002912636408730159
+PE_COOH | oxidized,large MP,high MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,17295,0.019637225679089917,0.0299987744316941,0.005361793154761905
+PE_COOH | oxidized,large MP,high MRI,low-to-moderate soil mobilization potential,high Cd loading,conditional retention,506,0.09645503696762475,0.0999854658416105,0.00015687003968253968
+PE_COOH | oxidized,large MP,high MRI,low-to-moderate soil mobilization potential,high Cd loading,mobilization regime,6874,0.13979808259954807,0.1955726964324994,0.002131076388888889
+PE_COOH | oxidized,large MP,high MRI,low-to-moderate soil mobilization potential,low Cd loading,conditional retention,3690,0.047590659853564435,0.0621962099358769,0.0011439732142857143
+PE_COOH | oxidized,large MP,high MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,3690,0.022446947367434286,0.0293359044648749,0.0011439732142857143
+PE_COOH | oxidized,large MP,high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,conditional retention,6361,0.07316363896059112,0.0999008482097759,0.0019720362103174604
+PE_COOH | oxidized,large MP,high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,mobilization regime,1019,0.10932418354342271,0.1192734299527989,0.00031591021825396826
+PE_COOH | oxidized,large MP,high MRI,moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,660,0.2738140015301198,0.3074874268869993,0.00020461309523809524
+PE_COOH | oxidized,large MP,high MRI,moderate soil mobilization potential,high Cd loading,mobilization regime,2680,0.20743072637057344,0.249710634355205,0.0008308531746031746
+PE_COOH | oxidized,large MP,high MRI,moderate soil mobilization potential,low Cd loading,conditional retention,3252,0.05719134868623672,0.0977874361000444,0.0010081845238095238
+PE_COOH | oxidized,large MP,high MRI,moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,88,0.02965223299005947,0.0299632882874295,2.7281746031746032e-05
+PE_COOH | oxidized,large MP,high MRI,moderate soil mobilization potential,moderate Cd loading,conditional retention,678,0.09299736558358132,0.0999868916523483,0.00021019345238095237
+PE_COOH | oxidized,large MP,high MRI,moderate soil mobilization potential,moderate Cd loading,mobilization regime,2662,0.13516137522422156,0.1875265859763357,0.0008252728174603175
+PE_COOH | oxidized,large MP,high MRI,very high soil mobilization potential,high Cd loading,aging-amplified mobilization,130,0.4132478857196493,0.5591273254467273,4.0302579365079364e-05
+PE_COOH | oxidized,large MP,high MRI,very high soil mobilization potential,low Cd loading,conditional retention,65,0.06767236997755266,0.083869098817009,2.0151289682539682e-05
+PE_COOH | oxidized,large MP,high MRI,very high soil mobilization potential,low Cd loading,mobilization regime,65,0.14347486490562333,0.177814189550598,2.0151289682539682e-05
+PE_COOH | oxidized,large MP,high MRI,very high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,65,0.2751411905476405,0.3409935798956646,2.0151289682539682e-05
+PE_COOH | oxidized,large MP,high MRI,very high soil mobilization potential,moderate Cd loading,mobilization regime,65,0.1993386956195698,0.2470484891620756,2.0151289682539682e-05
+PE_COOH | oxidized,large MP,moderate MRI,high soil mobilization potential,high Cd loading,aging-amplified mobilization,847,0.3121378964125697,0.4077934249147804,0.00026258680555555557
+PE_COOH | oxidized,large MP,moderate MRI,high soil mobilization potential,high Cd loading,mobilization regime,13,0.24942450528994886,0.2497875781618494,4.030257936507937e-06
+PE_COOH | oxidized,large MP,moderate MRI,high soil mobilization potential,low Cd loading,conditional retention,539,0.06038278381089158,0.0999812501138345,0.00016710069444444444
+PE_COOH | oxidized,large MP,moderate MRI,high soil mobilization potential,low Cd loading,mobilization regime,321,0.1116017835067164,0.1296868424331608,9.951636904761904e-05
+PE_COOH | oxidized,large MP,moderate MRI,high soil mobilization potential,moderate Cd loading,mobilization regime,860,0.17864985519858625,0.248699953464989,0.00026661706349206347
+PE_COOH | oxidized,large MP,moderate MRI,low soil mobilization potential,high Cd loading,conditional retention,14664,0.046306316197118544,0.0999906655604214,0.0045461309523809525
+PE_COOH | oxidized,large MP,moderate MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,11382,0.01438928330051309,0.029984502439935,0.0035286458333333333
+PE_COOH | oxidized,large MP,moderate MRI,low soil mobilization potential,high Cd loading,mobilization regime,644,0.10447242082020346,0.108800787615193,0.0001996527777777778
+PE_COOH | oxidized,large MP,moderate MRI,low soil mobilization potential,low Cd loading,conditional retention,1093,0.03227638428578361,0.0346009271802359,0.00033885168650793653
+PE_COOH | oxidized,large MP,moderate MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,25597,0.007080553073567955,0.0299843776601154,0.007935577876984127
+PE_COOH | oxidized,large MP,moderate MRI,low soil mobilization potential,moderate Cd loading,conditional retention,9013,0.043519981490098045,0.0663540635126898,0.0027942088293650795
+PE_COOH | oxidized,large MP,moderate MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,17677,0.011477949523619139,0.0299950047141689,0.005480220734126984
+PE_COOH | oxidized,large MP,moderate MRI,low-to-moderate soil mobilization potential,high Cd loading,conditional retention,736,0.0952698934970481,0.0999748095358002,0.0002281746031746032
+PE_COOH | oxidized,large MP,moderate MRI,low-to-moderate soil mobilization potential,high Cd loading,mobilization regime,6644,0.13546955025050558,0.1903079521354799,0.0020597718253968253
+PE_COOH | oxidized,large MP,moderate MRI,low-to-moderate soil mobilization potential,low Cd loading,conditional retention,3690,0.045641550959500156,0.0605219110816442,0.0011439732142857143
+PE_COOH | oxidized,large MP,moderate MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,3690,0.021527616874999805,0.0285461928203219,0.0011439732142857143
+PE_COOH | oxidized,large MP,moderate MRI,low-to-moderate soil mobilization potential,moderate Cd loading,conditional retention,6523,0.07124673414996283,0.0999759488713981,0.0020222594246031744
+PE_COOH | oxidized,large MP,moderate MRI,low-to-moderate soil mobilization potential,moderate Cd loading,mobilization regime,857,0.10761216735529953,0.1160626335503129,0.00026568700396825397
+PE_COOH | oxidized,large MP,moderate MRI,moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,500,0.2724634013889008,0.2992099796428884,0.00015500992063492063
+PE_COOH | oxidized,large MP,moderate MRI,moderate soil mobilization potential,high Cd loading,mobilization regime,2840,0.20389809719560031,0.2499070822449497,0.0008804563492063492
+PE_COOH | oxidized,large MP,moderate MRI,moderate soil mobilization potential,low Cd loading,conditional retention,3100,0.056678653676244375,0.0951550346661072,0.0009610615079365079
+PE_COOH | oxidized,large MP,moderate MRI,moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,240,0.029318724904531433,0.0299756075062385,7.440476190476191e-05
+PE_COOH | oxidized,large MP,moderate MRI,moderate soil mobilization potential,moderate Cd loading,conditional retention,791,0.09162669813777356,0.0999596245952745,0.00024522569444444445
+PE_COOH | oxidized,large MP,moderate MRI,moderate soil mobilization potential,moderate Cd loading,mobilization regime,2549,0.13266713191028193,0.1824784399821979,0.0007902405753968253
+PE_COOH | oxidized,large MP,moderate MRI,very high soil mobilization potential,high Cd loading,aging-amplified mobilization,130,0.40780754347229625,0.5440758256635282,4.0302579365079364e-05
+PE_COOH | oxidized,large MP,moderate MRI,very high soil mobilization potential,low Cd loading,conditional retention,65,0.06678147406231703,0.0816113738495292,2.0151289682539682e-05
+PE_COOH | oxidized,large MP,moderate MRI,very high soil mobilization potential,low Cd loading,mobilization regime,65,0.14158604128195243,0.1730274976583136,2.0151289682539682e-05
+PE_COOH | oxidized,large MP,moderate MRI,very high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,65,0.2715190008289523,0.3318141594662102,2.0151289682539682e-05
+PE_COOH | oxidized,large MP,moderate MRI,very high soil mobilization potential,moderate Cd loading,mobilization regime,65,0.1967144336093169,0.2403980356574258,2.0151289682539682e-05
+PE_COOH | oxidized,medium MP,high MRI,high soil mobilization potential,high Cd loading,aging-amplified mobilization,1720,0.3341248729072144,0.4452692146558018,0.0005332341269841269
+PE_COOH | oxidized,medium MP,high MRI,high soil mobilization potential,low Cd loading,conditional retention,860,0.05471539673749055,0.0667903821983702,0.00026661706349206347
+PE_COOH | oxidized,medium MP,high MRI,high soil mobilization potential,low Cd loading,mobilization regime,860,0.11600427408960304,0.1416049277731041,0.00026661706349206347
+PE_COOH | oxidized,medium MP,high MRI,high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,96,0.25828547835806603,0.2715552193795963,2.9761904761904762e-05
+PE_COOH | oxidized,medium MP,high MRI,high soil mobilization potential,moderate Cd loading,mobilization regime,1624,0.1878847918486285,0.2499756787491791,0.0005034722222222222
+PE_COOH | oxidized,medium MP,high MRI,low soil mobilization potential,high Cd loading,conditional retention,29471,0.06483341865901565,0.0999981123551119,0.009136594742063492
+PE_COOH | oxidized,medium MP,high MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,21532,0.019553740975247504,0.0299979484136854,0.006675347222222222
+PE_COOH | oxidized,medium MP,high MRI,low soil mobilization potential,high Cd loading,mobilization regime,2377,0.10870963189364906,0.1187994663363533,0.0007369171626984127
+PE_COOH | oxidized,medium MP,high MRI,low soil mobilization potential,low Cd loading,conditional retention,3249,0.033631261449525246,0.0377807162416262,0.0010072544642857142
+PE_COOH | oxidized,medium MP,high MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,50131,0.012580707688514416,0.0299897396995402,0.015541604662698412
+PE_COOH | oxidized,medium MP,high MRI,low soil mobilization potential,moderate Cd loading,conditional retention,19887,0.046252667004761244,0.0724519326315546,0.0061653645833333335
+PE_COOH | oxidized,medium MP,high MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,33493,0.018173965926029066,0.029998732566933,0.010383494543650793
+PE_COOH | oxidized,medium MP,high MRI,low-to-moderate soil mobilization potential,high Cd loading,conditional retention,433,0.09869679539340503,0.0999946974888283,0.00013423859126984126
+PE_COOH | oxidized,medium MP,high MRI,low-to-moderate soil mobilization potential,high Cd loading,mobilization regime,14327,0.14331463274925516,0.207797054128147,0.004441654265873016
+PE_COOH | oxidized,medium MP,high MRI,low-to-moderate soil mobilization potential,low Cd loading,conditional retention,7604,0.048665167302696266,0.0660838114847575,0.002357390873015873
+PE_COOH | oxidized,medium MP,high MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,7156,0.023008221841913486,0.0299934323216363,0.0022185019841269842
+PE_COOH | oxidized,medium MP,high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,conditional retention,12165,0.07487821845617615,0.0999799933124159,0.003771391369047619
+PE_COOH | oxidized,medium MP,high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,mobilization regime,2595,0.11174148654155605,0.1267286683266944,0.0008045014880952381
+PE_COOH | oxidized,medium MP,high MRI,moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,1865,0.27704341751292094,0.3267070641970483,0.000578187003968254
+PE_COOH | oxidized,medium MP,high MRI,moderate soil mobilization potential,high Cd loading,mobilization regime,4815,0.2120717107405285,0.2499805080729222,0.0014927455357142856
+PE_COOH | oxidized,medium MP,high MRI,moderate soil mobilization potential,low Cd loading,conditional retention,6584,0.05822153320615647,0.0999844466023011,0.002041170634920635
+PE_COOH | oxidized,medium MP,high MRI,moderate soil mobilization potential,low Cd loading,mobilization regime,96,0.10118659858449247,0.1038996829465248,2.9761904761904762e-05
+PE_COOH | oxidized,medium MP,high MRI,moderate soil mobilization potential,moderate Cd loading,conditional retention,970,0.09518959637375989,0.0999501985728646,0.00030071924603174605
+PE_COOH | oxidized,medium MP,high MRI,moderate soil mobilization potential,moderate Cd loading,mobilization regime,5710,0.13847622895462358,0.1992480179872173,0.0017702132936507937
+PE_COOH | oxidized,medium MP,high MRI,very high soil mobilization potential,high Cd loading,aging-amplified mobilization,260,0.4378278144869996,0.5940758256635282,8.060515873015873e-05
+PE_COOH | oxidized,medium MP,high MRI,very high soil mobilization potential,low Cd loading,conditional retention,130,0.07169751345933799,0.0891113738495292,4.0302579365079364e-05
+PE_COOH | oxidized,medium MP,high MRI,very high soil mobilization potential,low Cd loading,mobilization regime,130,0.152008730609846,0.1889285439368629,4.0302579365079364e-05
+PE_COOH | oxidized,medium MP,high MRI,very high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,134,0.2903601226702448,0.3623075340855977,4.154265873015873e-05
+PE_COOH | oxidized,medium MP,high MRI,very high soil mobilization potential,moderate Cd loading,mobilization regime,126,0.20984355423921608,0.2450036121519812,3.90625e-05
+PE_COOH | oxidized,small MP,high MRI,high soil mobilization potential,high Cd loading,aging-amplified mobilization,2580,0.35554630101946394,0.4827450043968232,0.0007998511904761905
+PE_COOH | oxidized,small MP,high MRI,high soil mobilization potential,low Cd loading,conditional retention,1290,0.0582233125883732,0.0724117506595234,0.0003999255952380952
+PE_COOH | oxidized,small MP,high MRI,high soil mobilization potential,low Cd loading,mobilization regime,1290,0.12344154506108859,0.1535230131130474,0.0003999255952380952
+PE_COOH | oxidized,small MP,high MRI,high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,374,0.2650189880303583,0.2944104852942036,0.00011594742063492063
+PE_COOH | oxidized,small MP,high MRI,high soil mobilization potential,moderate Cd loading,mobilization regime,2206,0.19458866505469805,0.2499353061547674,0.0006839037698412699
+PE_COOH | oxidized,small MP,high MRI,low soil mobilization potential,high Cd loading,conditional retention,43280,0.06140236830609064,0.0999946454139823,0.01341765873015873
+PE_COOH | oxidized,small MP,high MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,30696,0.014056380230125069,0.0299965907159034,0.009516369047619048
+PE_COOH | oxidized,small MP,high MRI,low soil mobilization potential,high Cd loading,mobilization regime,6094,0.11052602164359973,0.1287981450575136,0.0018892609126984128
+PE_COOH | oxidized,small MP,high MRI,low soil mobilization potential,low Cd loading,conditional retention,6376,0.034648831112571235,0.0409605053030166,0.001976686507936508
+PE_COOH | oxidized,small MP,high MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,73694,0.01013094664884967,0.0299906248748247,0.022846602182539682
+PE_COOH | oxidized,small MP,high MRI,low soil mobilization potential,moderate Cd loading,conditional retention,32406,0.04687355600915746,0.0785498017504194,0.010046502976190476
+PE_COOH | oxidized,small MP,high MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,47664,0.013608493965500679,0.029998872701879,0.014776785714285715
+PE_COOH | oxidized,small MP,high MRI,low-to-moderate soil mobilization potential,high Cd loading,mobilization regime,22140,0.15012875773376055,0.225286156120814,0.006863839285714286
+PE_COOH | oxidized,small MP,high MRI,low-to-moderate soil mobilization potential,low Cd loading,conditional retention,12578,0.04977510379427512,0.0716457118878709,0.0038994295634920636
+PE_COOH | oxidized,small MP,high MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,9562,0.023609529348043713,0.0299995161821567,0.002964409722222222
+PE_COOH | oxidized,small MP,high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,conditional retention,16865,0.07755732772846738,0.0999937295836389,0.005228484623015873
+PE_COOH | oxidized,small MP,high MRI,low-to-moderate soil mobilization potential,moderate Cd loading,mobilization regime,5275,0.11488024797134093,0.1373947031030759,0.0016353546626984127
+PE_COOH | oxidized,small MP,high MRI,moderate soil mobilization potential,high Cd loading,aging-amplified mobilization,4244,0.28302648922426576,0.3542041487512082,0.0013157242063492063
+PE_COOH | oxidized,small MP,high MRI,moderate soil mobilization potential,high Cd loading,mobilization regime,5776,0.21809598620395282,0.2499894733651121,0.0017906746031746033
+PE_COOH | oxidized,small MP,high MRI,moderate soil mobilization potential,low Cd loading,conditional retention,9326,0.05969086245579236,0.0999954802125925,0.0028912450396825396
+PE_COOH | oxidized,small MP,high MRI,moderate soil mobilization potential,low Cd loading,mobilization regime,694,0.10411868075042607,0.1126443312269424,0.00021515376984126985
+PE_COOH | oxidized,small MP,high MRI,moderate soil mobilization potential,moderate Cd loading,conditional retention,461,0.0977967572748063,0.0999986319146922,0.00014291914682539682
+PE_COOH | oxidized,small MP,high MRI,moderate soil mobilization potential,moderate Cd loading,mobilization regime,9559,0.14298580674769887,0.2160175959922367,0.002963479662698413
+PE_COOH | oxidized,small MP,high MRI,very high soil mobilization potential,high Cd loading,aging-amplified mobilization,390,0.4659356299032805,0.6440758256635282,0.0001209077380952381
+PE_COOH | oxidized,small MP,high MRI,very high soil mobilization potential,low Cd loading,conditional retention,195,0.07630037423574312,0.0966113738495292,6.045386904761905e-05
+PE_COOH | oxidized,small MP,high MRI,very high soil mobilization potential,low Cd loading,mobilization regime,195,0.1617674375724243,0.2048295902154122,6.045386904761905e-05
+PE_COOH | oxidized,small MP,high MRI,very high soil mobilization potential,moderate Cd loading,aging-amplified mobilization,213,0.3065190694754584,0.3928009087049852,6.603422619047619e-05
+PE_COOH | oxidized,small MP,high MRI,very high soil mobilization potential,moderate Cd loading,mobilization regime,177,0.22155788268915533,0.2488879306278157,5.487351190476191e-05
+PE_F | fresh,large MP,low MRI,high soil mobilization potential,high Cd loading,immobilization-dominant regime,1720,0.011792622102634948,0.0187764947714481,0.0005332341269841269
+PE_F | fresh,large MP,low MRI,high soil mobilization potential,low Cd loading,immobilization-dominant regime,1720,0.003012694843746626,0.0059713182461947,0.0005332341269841269
+PE_F | fresh,large MP,low MRI,high soil mobilization potential,moderate Cd loading,immobilization-dominant regime,1720,0.0067699826015166584,0.0114511737820948,0.0005332341269841269
+PE_F | fresh,large MP,low MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,53380,0.001801791389828893,0.0050096379563084,0.016548859126984127
+PE_F | fresh,large MP,low MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,53380,0.0004602996494358429,0.0015931696996407,0.016548859126984127
+PE_F | fresh,large MP,low MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,53380,0.0010343837235298541,0.0030552153381843,0.016548859126984127
+PE_F | fresh,large MP,low MRI,low-to-moderate soil mobilization potential,high Cd loading,immobilization-dominant regime,14760,0.00528852917296432,0.0087625646955528,0.004575892857142857
+PE_F | fresh,large MP,low MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,14760,0.0013510756498194706,0.0027866789348553,0.004575892857142857
+PE_F | fresh,large MP,low MRI,low-to-moderate soil mobilization potential,moderate Cd loading,immobilization-dominant regime,14760,0.0030360720607320825,0.0053440033577622,0.004575892857142857
+PE_F | fresh,large MP,low MRI,moderate soil mobilization potential,high Cd loading,immobilization-dominant regime,6680,0.008393403137811735,0.0137768641549428,0.0020709325396825397
+PE_F | fresh,large MP,low MRI,moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,6680,0.0021442866679431665,0.0043813310900206,0.0020709325396825397
+PE_F | fresh,large MP,low MRI,moderate soil mobilization potential,moderate Cd loading,immobilization-dominant regime,6680,0.0048185376174993445,0.0084020615951416,0.0020709325396825397
+PE_F | fresh,large MP,low MRI,very high soil mobilization potential,high Cd loading,immobilization-dominant regime,260,0.014467290674894582,0.025051499783199,8.060515873015873e-05
+PE_F | fresh,large MP,low MRI,very high soil mobilization potential,low Cd loading,immobilization-dominant regime,260,0.003696000061725026,0.0079669011479943,8.060515873015873e-05
+PE_F | fresh,large MP,low MRI,very high soil mobilization potential,moderate Cd loading,immobilization-dominant regime,260,0.008305473143096487,0.0152780953533318,8.060515873015873e-05
+PE_F | fresh,medium MP,low MRI,high soil mobilization potential,high Cd loading,conditional retention,682,0.03383536081541525,0.0449709476892257,0.00021143353174603175
+PE_F | fresh,medium MP,low MRI,high soil mobilization potential,high Cd loading,immobilization-dominant regime,1038,0.02579167872036933,0.0299877164157365,0.0003218005952380952
+PE_F | fresh,medium MP,low MRI,high soil mobilization potential,low Cd loading,immobilization-dominant regime,1720,0.007320294113506107,0.0143017024079319,0.0005332341269841269
+PE_F | fresh,medium MP,low MRI,high soil mobilization potential,moderate Cd loading,immobilization-dominant regime,1720,0.01644981199781576,0.0274263190975287,0.0005332341269841269
+PE_F | fresh,medium MP,low MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,53380,0.00554703982221713,0.0119984144653923,0.016548859126984127
+PE_F | fresh,medium MP,low MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,53380,0.0014171181035909312,0.0038157468736683,0.016548859126984127
+PE_F | fresh,medium MP,low MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,53380,0.0031844794787360287,0.0073174429426377,0.016548859126984127
+PE_F | fresh,medium MP,low MRI,low-to-moderate soil mobilization potential,high Cd loading,immobilization-dominant regime,14760,0.012898082845983086,0.0209869223912004,0.004575892857142857
+PE_F | fresh,medium MP,low MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,14760,0.003295073115824978,0.006674280483736,0.004575892857142857
+PE_F | fresh,medium MP,low MRI,low-to-moderate soil mobilization potential,moderate Cd loading,immobilization-dominant regime,14760,0.007404529440199915,0.0127992417316577,0.004575892857142857
+PE_F | fresh,medium MP,low MRI,moderate soil mobilization potential,high Cd loading,conditional retention,244,0.031177722117353673,0.0329965014649919,7.564484126984127e-05
+PE_F | fresh,medium MP,low MRI,moderate soil mobilization potential,high Cd loading,immobilization-dominant regime,6436,0.019896764008526854,0.0299736840588329,0.0019952876984126984
+PE_F | fresh,medium MP,low MRI,moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,6680,0.005174280061392315,0.0104935779365011,0.0020709325396825397
+PE_F | fresh,medium MP,low MRI,moderate soil mobilization potential,moderate Cd loading,immobilization-dominant regime,6680,0.011627392685890785,0.0201234936060233,0.0020709325396825397
+PE_F | fresh,medium MP,low MRI,very high soil mobilization potential,high Cd loading,conditional retention,202,0.03882075276460337,0.06,6.262400793650794e-05
+PE_F | fresh,medium MP,low MRI,very high soil mobilization potential,high Cd loading,immobilization-dominant regime,58,0.02681871259686064,0.0296589274739039,1.7981150793650793e-05
+PE_F | fresh,medium MP,low MRI,very high soil mobilization potential,low Cd loading,immobilization-dominant regime,260,0.00958424006098833,0.0190812555342591,8.060515873015873e-05
+PE_F | fresh,medium MP,low MRI,very high soil mobilization potential,moderate Cd loading,conditional retention,26,0.03204268878313209,0.0365920495432649,8.060515873015874e-06
+PE_F | fresh,medium MP,low MRI,very high soil mobilization potential,moderate Cd loading,immobilization-dominant regime,234,0.020759168341996672,0.0298467067909915,7.254464285714286e-05
+PE_F | fresh,small MP,low MRI,high soil mobilization potential,high Cd loading,conditional retention,2580,0.050076003132990446,0.0824467374302471,0.0007998511904761905
+PE_F | fresh,small MP,low MRI,high soil mobilization potential,low Cd loading,immobilization-dominant regime,2580,0.012793059518161998,0.0262197877478752,0.0007998511904761905
+PE_F | fresh,small MP,low MRI,high soil mobilization potential,moderate Cd loading,conditional retention,1194,0.03443098709769311,0.050281585012136,0.00037016369047619045
+PE_F | fresh,small MP,low MRI,high soil mobilization potential,moderate Cd loading,immobilization-dominant regime,1386,0.024707399717131005,0.029967583033564,0.0004296875
+PE_F | fresh,small MP,low MRI,low soil mobilization potential,high Cd loading,immobilization-dominant regime,80070,0.007040050023541986,0.0219970931865527,0.02482328869047619
+PE_F | fresh,small MP,low MRI,low soil mobilization potential,low Cd loading,immobilization-dominant regime,80070,0.0017985201493797664,0.0069955359350587,0.02482328869047619
+PE_F | fresh,small MP,low MRI,low soil mobilization potential,moderate Cd loading,immobilization-dominant regime,80070,0.004041596157188544,0.0134153120615025,0.02482328869047619
+PE_F | fresh,small MP,low MRI,low-to-moderate soil mobilization potential,high Cd loading,conditional retention,2134,0.03298735321111971,0.0384760243838675,0.0006615823412698412
+PE_F | fresh,small MP,low MRI,low-to-moderate soil mobilization potential,high Cd loading,immobilization-dominant regime,20006,0.020447727370161182,0.0299958091786263,0.006202256944444444
+PE_F | fresh,small MP,low MRI,low-to-moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,22140,0.005415424101856034,0.0122361808868493,0.006863839285714286
+PE_F | fresh,small MP,low MRI,low-to-moderate soil mobilization potential,moderate Cd loading,immobilization-dominant regime,22140,0.012169279947319674,0.0234652765080392,0.006863839285714286
+PE_F | fresh,small MP,low MRI,moderate soil mobilization potential,high Cd loading,conditional retention,7451,0.03730883749139599,0.0604935860191518,0.0023099578373015875
+PE_F | fresh,small MP,low MRI,moderate soil mobilization potential,high Cd loading,immobilization-dominant regime,2569,0.02716973701753321,0.0299875924267535,0.0007964409722222223
+PE_F | fresh,small MP,low MRI,moderate soil mobilization potential,low Cd loading,immobilization-dominant regime,10020,0.008804244109282251,0.0192382262169187,0.0031063988095238093
+PE_F | fresh,small MP,low MRI,moderate soil mobilization potential,moderate Cd loading,conditional retention,629,0.032935645991904315,0.0368930716110427,0.00019500248015873016
+PE_F | fresh,small MP,low MRI,moderate soil mobilization potential,moderate Cd loading,immobilization-dominant regime,9391,0.019247755198804672,0.0299981519495162,0.002911396329365079
+PE_F | fresh,small MP,low MRI,very high soil mobilization potential,high Cd loading,conditional retention,385,0.06533022079193347,0.0989786949720988,0.00011935763888888888
+PE_F | fresh,small MP,low MRI,very high soil mobilization potential,high Cd loading,mobilization regime,5,0.10490765018677332,0.11,1.5500992063492063e-06
+PE_F | fresh,small MP,low MRI,very high soil mobilization potential,low Cd loading,conditional retention,15,0.03162053702234015,0.0349823018128084,4.6502976190476195e-06
+PE_F | fresh,small MP,low MRI,very high soil mobilization potential,low Cd loading,immobilization-dominant regime,375,0.01638353663041792,0.0299751509185609,0.00011625744047619047
+PE_F | fresh,small MP,low MRI,very high soil mobilization potential,moderate Cd loading,conditional retention,330,0.04004510060646034,0.0670854241626524,0.00010230654761904762
+PE_F | fresh,small MP,low MRI,very high soil mobilization potential,moderate Cd loading,immobilization-dominant regime,60,0.02676117309315747,0.0298387000231671,1.8601190476190478e-05
