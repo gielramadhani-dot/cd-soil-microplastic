@@ -1,0 +1,49 @@
+DFT log for PET_F_CdH2O6_pose05
+
+[OK] PET_F_CdH2O6_pose05_complex
+{
+  "label": "PET_F_CdH2O6_pose05_complex",
+  "energy_Eh": -1390.4113776785557,
+  "converged": true,
+  "basis_label": "def2svp_all_def2ecp_Cd",
+  "xc": "PBE",
+  "solvent_status": "ddCOSMO_water_eps_78.3553",
+  "homo_eV": -6.405233328302638,
+  "lumo_eV": -2.5670742842741525,
+  "gap_eV": 3.838159044028486,
+  "dipole_D": 74.26630119170726,
+  "Cd_mulliken_charge": 0.5072709981409709,
+  "error": ""
+}
+
+[OK] PET_F_CdH2O6_pose05_fragment
+{
+  "label": "PET_F_CdH2O6_pose05_fragment",
+  "energy_Eh": -765.1612289148036,
+  "converged": true,
+  "basis_label": "def2svp_all_def2ecp_Cd",
+  "xc": "PBE",
+  "solvent_status": "ddCOSMO_water_eps_78.3553",
+  "homo_eV": -6.081579156110045,
+  "lumo_eV": -2.4062418886541925,
+  "gap_eV": 3.675337267455853,
+  "dipole_D": 5.568163695689736,
+  "Cd_mulliken_charge": NaN,
+  "error": ""
+}
+
+[OK] PET_F_CdH2O6_pose05_CdH2O6
+{
+  "label": "PET_F_CdH2O6_pose05_CdH2O6",
+  "energy_Eh": -625.2205061877979,
+  "converged": true,
+  "basis_label": "def2svp_all_def2ecp_Cd",
+  "xc": "PBE",
+  "solvent_status": "ddCOSMO_water_eps_78.3553",
+  "homo_eV": -7.502053630449471,
+  "lumo_eV": -1.4075368812288358,
+  "gap_eV": 6.094516749220635,
+  "dipole_D": 81.60003969174547,
+  "Cd_mulliken_charge": 0.5141461043149995,
+  "error": ""
+}
